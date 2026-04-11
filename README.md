@@ -45,7 +45,7 @@
 
 1. **Trigger:** A scheduled GitHub action kicks off at the configured time natively within the `develop` branch.
 2. **Compute:** A custom TypeScript runner utilizing `tsx` dynamically generates an extensive academic thesis using the `gemini-2.5-flash` model.
-3. **Capture:** The Node.js native `fs` layer intercepts the payload, scrapes the thesis title, and dynamically writes a `.md` markdown file directly to the `/articles` payload chunk.
+3. **Capture:** The Node.js native `fs` layer intercepts the payload, scrapes the thesis title, and writes a `.md` file into the `articles/` directory.
 4. **Archiving:** The GitHub Action pipeline wakes up a bot user (`github-actions[bot]`), auto-commits the newly spawned file directly to the repository branch, and pushes the change automatically.
 
 ---
