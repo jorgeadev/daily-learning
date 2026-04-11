@@ -27,8 +27,6 @@
     "typescript": "6.0.2"
   },
   "dependencies": {
-    "@sendgrid/mail": "8.1.6",
-    "openai": "6.34.0",
-    "twilio": "5.13.1"
+    "@google/generative-ai": "0.24.1"
   }
 }

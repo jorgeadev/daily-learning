@@ -5,9 +5,15 @@ on:
     - cron: "0 14 * * *" # 10 AM EST = 14 UTC
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   run:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -27,11 +33,12 @@ jobs:
       - name: Run daily learning script
         run: npx tsx scripts/daily-learning.ts
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          TWILIO_SID: ${{ secrets.TWILIO_SID }}
-          TWILIO_AUTH: ${{ secrets.TWILIO_AUTH }}
-          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
-          TO_EMAIL: ${{ secrets.TO_EMAIL }}
-          FROM_PHONE: ${{ secrets.FROM_PHONE }}
-          TO_PHONE: ${{ secrets.TO_PHONE }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push generated thesis
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles/
+          git commit -m "docs: auto-generate daily learning thesis [skip ci]" || echo "No changes to commit"
+          git push
