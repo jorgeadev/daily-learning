@@ -14,8 +14,8 @@ const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 async function generateContent(): Promise<string> {
     try {
-        // gemini-1.5-flash is extremely fast, free-tier eligible, and supports massive outputs 
-        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+        // gemini-2.5-flash is extremely fast, free-tier eligible, and supports massive outputs 
+        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
         const prompt = `
 Write a complete and highly professional thesis on a topic related to distributed systems, backend architectures, or modern infrastructure. 
