@@ -1,0 +1,34 @@
+{
+  "name": "daily-learning",
+  "version": "1.0.0",
+  "description": "Daily Learning - Technologies and Infrastructure News",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx scripts/daily-learning.ts",
+    "local": "tsx scripts/local-run.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeadev/daily-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jorgeadev/daily-learning/issues"
+  },
+  "homepage": "https://github.com/jorgeadev/daily-learning#readme",
+  "devDependencies": {
+    "@types/jsonwebtoken": "9.0.10",
+    "@types/node": "25.6.0",
+    "tsx": "4.21.0",
+    "typescript": "6.0.2"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "8.1.6",
+    "openai": "6.34.0",
+    "twilio": "5.13.1"
+  }
+}
