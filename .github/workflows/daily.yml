@@ -49,6 +49,7 @@ jobs:
           fi
 
           BRANCH_NAME="daily-thesis-$(date +'%Y%m%d%H%M%S')"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
 
           git add articles/
@@ -62,4 +63,13 @@ jobs:
                        --head $BRANCH_NAME
 
           # Merge PR using squash (GitHub automatically signs squash merges)
-          gh pr merge --squash --delete-branch
+          gh pr merge --squash
+
+      - name: Delete temporary branch
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$BRANCH_NAME" ]; then
+            git push origin --delete $BRANCH_NAME || echo "Branch already deleted or could not be found."
+          fi
