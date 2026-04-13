@@ -32,7 +32,7 @@ async function loadTopics(): Promise<{ topics: string[], configPath: string }> {
 
 async function generateWithRetry(prompt: string): Promise<string> {
     const maxRetries = 5;
-    let baseDelay = 10000;
+    let baseDelay = 300000;
 
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
         try {
