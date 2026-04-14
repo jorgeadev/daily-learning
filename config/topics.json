@@ -67,10 +67,12 @@
     "The interplay of programmable data planes and P4 with smart NICs for ultra-low-latency network function virtualization in hyperscale data centers.",
     "Engineering enhanced adeno-associated virus (AAV) vectors with synthetic capsids for neurotropic gene therapy delivery and evasion of pre-existing immunity.",
     "Optimizing Cold Start Latency and Distributed State Management in Hyperscale Serverless Architectures: A Deep Dive.",
-    "The Architectural Evolution of Global-Scale Consistency Models: A Deep Dive into Atomic Clocks and Distributed Transactions in Databases like Spanner.",
     "From AlphaFold to Novel Protein Design: The Computational Infrastructure and Algorithmic Advances Powering AI-Driven Drug Discovery.",
     "Disaggregated Memory Architectures and Next-Gen Interconnects: Engineering the Hyperscale AI Training Fabrics of Tomorrow",
     "Beyond the Hype: Architecting Deterministic, State-Consistent Serverless at Hyperscale for Real-time Edge Computations",
-    "The Role of Large-Scale Knowledge Graphs and AI in Accelerating Viral Variant Identification and Synthetic Biology Design"
+    "The Role of Large-Scale Knowledge Graphs and AI in Accelerating Viral Variant Identification and Synthetic Biology Design",
+    "Implementing True Multi-Cloud Stateful Consensus Protocols: Engineering Challenges in Global Data Consistency and Latency.",
+    "The Architecture and Performance Implications of Programmable Data Plane Interconnects (P4) for Hyperscale Microservices Mesh Optimization.",
+    "CRISPR-Cas13 Based Antiviral Strategies: Engineering Sequence-Specific RNA Degradation for Pan-Viral Immunity."
   ]
 }
