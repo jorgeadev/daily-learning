@@ -3,7 +3,6 @@
     "Google's global network infrastructure, subsea cables, and data center design.",
     "How Meta handles billions of daily active users: frontend-to-backend architecture.",
     "Amazon Web Services: the true scale of their compute power and physical data center distribution.",
-    "Microsoft Azure's underwater data centers (Project Natick) and the future of sustainable computing.",
     "Netflix's massive CDN, Open Connect, and how they stream petabytes of video seamlessly.",
     "The engineering behind Twitter/X: transitioning from a monolith to microservices and how they handle viral hype spikes.",
     "What goes into designing the hardware for custom AI accelerators like Google TPUs and AWS Inferentia?",
@@ -75,6 +74,9 @@
     "CRISPR-Cas13 Based Antiviral Strategies: Engineering Sequence-Specific RNA Degradation for Pan-Viral Immunity.",
     "Optimizing multi-tenant isolation and resource fairness in a hyperscale Kubernetes control plane with thousands of clusters.",
     "The architectural evolution of global distributed consensus mechanisms for petabyte-scale metadata stores across continental fault domains.",
-    "Synthetic biology approaches to engineering enhanced viral vectors for precise in-vivo gene delivery and reduced immunogenicity."
+    "Synthetic biology approaches to engineering enhanced viral vectors for precise in-vivo gene delivery and reduced immunogenicity.",
+    "The Architectural Implications of Disaggregated Memory and Compute for Future Hyperscale Data Centers",
+    "Achieving Global-Scale Strong Consistency in Geo-Distributed Databases: A Deep Dive into Conflict Resolution and Consensus Protocols",
+    "The Engineering of Multi-Modal, Multi-Agent AI Systems: Towards Emergent Behavior and Real-World Interaction"
   ]
 }
