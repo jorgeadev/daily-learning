@@ -22,7 +22,6 @@
     "Cloudflare’s Edge computing architecture: how Workers deploy code to hundreds of data centers in milliseconds.",
     "AWS DynamoDB under the hood: how Amazon scales a NoSQL database seamlessly across regions.",
     "Reddit’s handling of immense traffic spikes during viral world events or massive AMAs.",
-    "Pinterest’s machine learning infrastructure: how they serve visually similar image matches in real-time.",
     "GitHub’s database migration strategy: moving terabytes of operational data with zero downtime.",
     "Slack’s transition to a modern real-time architecture to reduce client CPU usage and handle massive channels.",
     "Epic Games' Unreal Engine multiplayer infrastructure: scaling Fortnite backend for millions of concurrent users.",
@@ -77,6 +76,9 @@
     "Synthetic biology approaches to engineering enhanced viral vectors for precise in-vivo gene delivery and reduced immunogenicity.",
     "The Architectural Implications of Disaggregated Memory and Compute for Future Hyperscale Data Centers",
     "Achieving Global-Scale Strong Consistency in Geo-Distributed Databases: A Deep Dive into Conflict Resolution and Consensus Protocols",
-    "The Engineering of Multi-Modal, Multi-Agent AI Systems: Towards Emergent Behavior and Real-World Interaction"
+    "The Engineering of Multi-Modal, Multi-Agent AI Systems: Towards Emergent Behavior and Real-World Interaction",
+    "The Engineering Challenges of Building Exabyte-Scale Object Storage for AI/ML Workloads",
+    "Service Mesh Evolution: eBPF-powered Observability and Policy Enforcement at L4/L7",
+    "Next-Generation mRNA Vaccine Platform Engineering: Stability, Delivery, and Immunogenicity Enhancements"
   ]
 }
