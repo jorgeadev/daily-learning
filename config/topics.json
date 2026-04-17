@@ -41,7 +41,6 @@
     "Riot Games’ League of Legends global matchmaking and low-latency game server infrastructure.",
     "Fastly’s Edge CDN architecture and the Varnish caching engine deep-dive.",
     "Datadog’s ingestion pipeline: processing trillions of monitoring metrics and logs seamlessly.",
-    "Zillow's Zestimate machine learning pipeline: evaluating millions of homes nightly using big data.",
     "Roblox’s user-generated content infrastructure: serving 3D assets to millions of active concurrent players globally.",
     "Grab's super-app architecture: handling ride-hailing, food delivery, and payments across Southeast Asia.",
     "NASA's JPL cloud computing architecture: how they managed the telemetry data pipeline for the Mars Rover.",
@@ -79,6 +78,9 @@
     "The Engineering of Multi-Modal, Multi-Agent AI Systems: Towards Emergent Behavior and Real-World Interaction",
     "Disaggregated Memory Architectures and CXL's Role in Scaling Hyperscale AI Model Training Clusters",
     "Eventual Consistency Reimagined: Advanced Conflict-Free Replicated Datatypes (CRDTs) for Global Scale Geo-Distributed State Management",
-    "CRISPR-Cas System Engineering for Phage-Based Antimicrobial Resistance Mitigation: A Synthetic Biology Approach"
+    "CRISPR-Cas System Engineering for Phage-Based Antimicrobial Resistance Mitigation: A Synthetic Biology Approach",
+    "The architectural paradigm shift for exascale multi-modal AI model training: focusing on next-gen interconnects and distributed memory coherence.",
+    "Deep dive into maintaining strong temporal consistency across globally distributed, eventually consistent transactional databases: challenges and novel solutions.",
+    "Engineering high-fidelity, high-throughput synthetic biology platforms for rapid, adaptive vaccine prototyping and production against emerging pathogens."
   ]
 }
