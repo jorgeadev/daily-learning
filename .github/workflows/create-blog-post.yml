@@ -53,7 +53,7 @@ jobs:
                   git checkout -b $BRANCH_NAME
 
                   git add web/src/content/blog/ config/topics.json
-                  git commit -m "docs: auto-generate blueprint thesis and update topics pool [skip ci]"
+                  git commit -m "docs: auto-generate blueprint thesis [skip ci]"
                   git push -u origin $BRANCH_NAME
 
                   # Create PR

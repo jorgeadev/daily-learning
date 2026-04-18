@@ -8,6 +8,7 @@
     "main": "index.js",
     "scripts": {
         "start": "tsx --env-file=.env scripts/the-architects-blueprint.ts",
+        "generate:topics": "tsx --env-file=.env scripts/generate-topics.ts",
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev:web": "pnpm --filter web run dev",
         "build:web": "pnpm --filter web run build",
