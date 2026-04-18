@@ -34,7 +34,7 @@ async function loadTopics(): Promise<{ topics: string[]; configPath: string }> {
 
 async function generateWithRetry(prompt: string): Promise<string> {
     const maxRetries = 5;
-    let baseDelay = 300000;
+    let baseDelay = 15000;
 
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
         try {
@@ -103,7 +103,13 @@ Output ONLY a raw JSON array of 3 strings. Example format:
 `;
 
     console.log("Generating 3 new topics to replenish the pool...");
-    const text = await generateWithRetry(prompt);
+    let text = "";
+    try {
+        text = await generateWithRetry(prompt);
+    } catch {
+        console.error("Skipping topic replenishment due to persistent rate limiting.");
+        return [];
+    }
 
     try {
         const start = text.indexOf("[");
