@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "tsx --env-file=.env scripts/the-architects-blueprint.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:web": "pnpm --filter web run dev",
+    "build:web": "pnpm --filter web run build",
+    "preview:web": "pnpm --filter web run preview"
   },
   "repository": {
     "type": "git",
