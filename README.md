@@ -10,7 +10,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![License](https://img.shields.io/badge/License-ISC-blue?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=for-the-badge)
 
 <p align="center">
   <em>A serverless, precision-engineered learning conduit delivering rigorous, thesis-level insights into backend architectures, distributed systems, and infrastructure natively into your repository.</em>
@@ -103,3 +104,19 @@ Once configured, the agent will begin delivering and auto-committing learning do
     Built for uncompromising technological growth.
   </p>
 </div>
+
+---
+
+## 📜 License
+
+This project utilizes a **dual-license** structure due to the hybrid nature of containing both software infrastructure and creative content:
+
+### 1. Software Codebase (`MIT License`)
+All software infrastructure, including the Astro frontend, GitHub Actions workflows, TypeScript generation scripts, and system architecture configurations are licensed under the **MIT License**. 
+
+You are free to use, modify, distribute, and commercialize the software codebase, provided that you include the original copyright and permission notice.
+
+### 2. Generated Content (`CC BY 4.0`)
+All AI-generated technical blogs, essays, and deep-dive articles located within the `web/src/content/blog/` directory are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
+
+You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially. However, **you must give appropriate credit (attribution)**, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
