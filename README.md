@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Daily Learning Pipeline
+# 📚 The Architect's Blueprint Pipeline
 
 **An Uncompromising, Zero-Cost Automated Digest of Advanced Computing Paradigms.**
 

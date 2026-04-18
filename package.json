@@ -1,24 +1,24 @@
 {
-  "name": "daily-learning",
+  "name": "the-architects-blueprint",
   "version": "1.0.0",
-  "description": "Daily Learning - Technologies and Infrastructure News",
+  "description": "The Architect's Blueprint - Technologies and Infrastructure News",
   "main": "index.js",
   "scripts": {
-    "start": "tsx --env-file=.env scripts/daily-learning.ts",
+    "start": "tsx --env-file=.env scripts/the-architects-blueprint.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jorgeadev/daily-learning.git"
+    "url": "git+https://github.com/jorgeadev/the-architects-blueprint.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/jorgeadev/daily-learning/issues"
+    "url": "https://github.com/jorgeadev/the-architects-blueprint/issues"
   },
-  "homepage": "https://github.com/jorgeadev/daily-learning#readme",
+  "homepage": "https://github.com/jorgeadev/the-architects-blueprint#readme",
   "devDependencies": {
     "@types/jsonwebtoken": "9.0.10",
     "@types/node": "25.6.0",

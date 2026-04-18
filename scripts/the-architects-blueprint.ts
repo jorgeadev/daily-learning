@@ -112,7 +112,7 @@ Output ONLY a raw JSON array of 3 strings. Example format:
 
 function saveToDisk(content: string) {
     const rootDir = process.cwd();
-    const articlesDir = path.join(rootDir, 'articles');
+    const articlesDir = path.join(rootDir, 'web', 'src', 'content', 'blog');
 
     if (!fs.existsSync(articlesDir)) {
         fs.mkdirSync(articlesDir, { recursive: true });
@@ -164,7 +164,7 @@ async function run() {
             console.log("Skipping topic rotation because AI failed to generate valid JSON.");
         }
 
-        console.log("Daily learning workflow completed.");
+        console.log("The Architect's Blueprint workflow completed.");
     } catch (e) {
         console.error("Failed executing generation pipe", e);
         process.exit(1);
