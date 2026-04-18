@@ -5,7 +5,7 @@ import tsPlugin from "@typescript-eslint/eslint-plugin";
 export default [
     ...eslintPluginAstro.configs.recommended,
     {
-        ignores: ["**/.astro/**", "node_modules/**", "dist/**", "web/dist/**"],
+        ignores: ["**/.astro/**", "node_modules/**", "dist/**", "web/dist/**", ".github/**"],
     },
     {
         files: ["**/*.ts", "**/*.tsx"],

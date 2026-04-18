@@ -1,8 +1,8 @@
-name: "Create Blog Post"
+name: "Generate Topics Pool"
 
 on:
   schedule:
-    - cron: "0 7 * * *" # 10 AM EST = 14 UTC
+    - cron: "30 7 * * *" # Runs 30 minutes after the daily blog post (14:30 UTC)
   workflow_dispatch:
 
 env:
@@ -31,8 +31,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Run content generation script
-        run: pnpx tsx scripts/the-architects-blueprint.ts
+      - name: Run topics generation script
+        run: pnpx tsx scripts/generate-topics.ts
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
@@ -43,22 +43,22 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [[ -z $(git status -s web/src/content/blog/ config/topics.json) ]]; then
+          if [[ -z $(git status -s config/topics.json) ]]; then
             echo "No changes to commit"
             exit 0
           fi
 
-          BRANCH_NAME="auto-thesis-$(date +'%Y%m%d%H%M%S')"
+          BRANCH_NAME="replenish-topics-$(date +'%Y%m%d%H%M%S')"
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
 
-          git add web/src/content/blog/ config/topics.json
-          git commit -m "docs: auto-generate blueprint thesis [skip ci]"
+          git add config/topics.json
+          git commit -m "chore: replenish topics pool via gemini [skip ci]"
           git push -u origin $BRANCH_NAME
 
           # Create PR
-          PR_URL=$(gh pr create --title "docs: auto-generate blueprint thesis [skip ci]" \
-                            --body "Automated blueprint thesis generation." \
+          PR_URL=$(gh pr create --title "chore: replenish topics pool [skip ci]" \
+                            --body "Automated topic generation via Gemini API." \
                             --base main \
                             --head $BRANCH_NAME)
 
