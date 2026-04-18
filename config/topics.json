@@ -43,7 +43,6 @@
         "Roblox’s user-generated content infrastructure: serving 3D assets to millions of active concurrent players globally.",
         "Grab's super-app architecture: handling ride-hailing, food delivery, and payments across Southeast Asia.",
         "NASA's JPL cloud computing architecture: how they managed the telemetry data pipeline for the Mars Rover.",
-        "The Linux Kernel maintainer network: how global infrastructure runs on a massively distributed open-source model.",
         "The engineering effort required to build and deploy Google’s customized Tensor Processing Units (TPUs) into data centers.",
         "The logistics and engineering of Microsoft's massive fiber-optic network connecting global Azure regions.",
         "An deep dive into how AWS Nitro cards physically offload networking and storage from EC2 instances.",
@@ -91,6 +90,9 @@
         "CRISPR-CasX: Engineering novel non-integrating viral delivery vectors for high-specificity in-vivo genomic editing.",
         "Disaggregated Compute and Storage Architectures in Hyperscale Cloud Environments: Performance Implications and Future Trends",
         "Achieving Global Strong Consistency Across Geographically Distributed Datastores: A Deep Dive into Distributed Consensus Protocols Beyond Paxos",
-        "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity"
+        "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity",
+        "Deep Dive into Hyperscale Data Plane Programmability: Architecting SmartNIC and DPU-based Network Acceleration for Cloud-Native Workloads.",
+        "Beyond Consensus Primitives: The Engineering Challenges of Building a Strongly Consistent Global-Scale Distributed Database with Millisecond Latency Reads and Writes.",
+        "Synthetic Virology for Precision Medicine: Engineering Designer Viral Capsids to Overcome Immunogenicity and Enhance Cell-Specific Gene Therapy Delivery."
     ]
 }
