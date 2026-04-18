@@ -40,7 +40,6 @@
         "Riot Games’ League of Legends global matchmaking and low-latency game server infrastructure.",
         "Fastly’s Edge CDN architecture and the Varnish caching engine deep-dive.",
         "Datadog’s ingestion pipeline: processing trillions of monitoring metrics and logs seamlessly.",
-        "Roblox’s user-generated content infrastructure: serving 3D assets to millions of active concurrent players globally.",
         "Grab's super-app architecture: handling ride-hailing, food delivery, and payments across Southeast Asia.",
         "NASA's JPL cloud computing architecture: how they managed the telemetry data pipeline for the Mars Rover.",
         "The Linux Kernel maintainer network: how global infrastructure runs on a massively distributed open-source model.",
@@ -91,6 +90,9 @@
         "CRISPR-CasX: Engineering novel non-integrating viral delivery vectors for high-specificity in-vivo genomic editing.",
         "Disaggregated Compute and Storage Architectures in Hyperscale Cloud Environments: Performance Implications and Future Trends",
         "Achieving Global Strong Consistency Across Geographically Distributed Datastores: A Deep Dive into Distributed Consensus Protocols Beyond Paxos",
-        "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity"
+        "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity",
+        "The Unseen Backbone: Engineering Global Low-Latency Quorum-Based Consistency for Distributed Databases Across Continental Fault Domains",
+        "Synthetic Phage Engineering: Leveraging Machine Learning for De Novo Bacteriophage Design and Host-Range Expansion Against Multi-Drug Resistant Pathogens",
+        "Beyond Disaggregated Storage: The Rise of Computational Storage Drives (CSDs) and Their Impact on Hyperscale Data Center TCO and Performance Bottlenecks"
     ]
 }
