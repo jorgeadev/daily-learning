@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-18-engineering-life-s-source-code-precision-gene-dri.jpg"
 title: "Engineering Life's Source Code: Precision Gene Drives and the Quest for Contained Innovation"
 date: 2026-04-18
 ---

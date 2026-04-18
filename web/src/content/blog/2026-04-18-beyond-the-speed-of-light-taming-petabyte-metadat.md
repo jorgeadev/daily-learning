@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-18-beyond-the-speed-of-light-taming-petabyte-metadat.jpg"
 title: "Beyond the Speed of Light: Taming Petabyte Metadata Chaos Across Continental Fault Lines"
 date: 2026-04-18
 ---

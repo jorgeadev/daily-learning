@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-the-evolution-and-challenges-of-event-driven-arch.jpg"
 title: "The Evolution and Challenges of Event-Driven Architectures: Achieving Consistency and Resilience in Modern Distributed Systems"
 date: 2026-04-12
 ---

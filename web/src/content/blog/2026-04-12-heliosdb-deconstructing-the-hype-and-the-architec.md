@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-heliosdb-deconstructing-the-hype-and-the-architec.jpg"
 title: "HeliosDB: Deconstructing the Hype and the Architectural Revolution Underneath"
 date: 2026-04-12
 ---

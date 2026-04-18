@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-14-the-butterfly-effect-in-the-cloud-how-one-dns-typ.jpg"
 title: "The Butterfly Effect in the Cloud: How One DNS Typo Decimated Half the Internet"
 date: 2026-04-14
 ---

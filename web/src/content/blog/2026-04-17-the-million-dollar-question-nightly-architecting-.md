@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-17-the-million-dollar-question-nightly-architecting-.jpg"
 title: "The Million-Dollar Question, Nightly: Architecting Zillow's Zestimate Machine Learning Pipeline"
 date: 2026-04-17
 ---

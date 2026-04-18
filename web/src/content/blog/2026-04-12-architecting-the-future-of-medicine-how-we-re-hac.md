@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-architecting-the-future-of-medicine-how-we-re-hac.jpg"
 title: "Architecting the Future of Medicine: How We're Hacking Biology's Delivery Trucks for Next-Gen Gene Therapies"
 date: 2026-04-12
 ---

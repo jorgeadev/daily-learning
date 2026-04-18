@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-16-the-invisible-orchestra-orchestrating-instant-sug.jpg"
 title: "The Invisible Orchestra: Orchestrating Instant Suggestions for Billions with Google Search Autocomplete"
 date: 2026-04-16
 ---

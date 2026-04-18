@@ -1,17 +1,33 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 import * as fs from "fs";
 import * as path from "path";
+import {
+    generateWithGemini,
+    generateWithGrok,
+    generateWithOpenRouter,
+    generateWithDeepSeek,
+} from "./ai-service";
 
-// Initialize configuration
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY as string;
+// ==========================================
+// CONFIGURATION
+// Choose ONE fallback provider explicitly: "DeepSeek" | "Grok" | "OpenRouter"
+// ==========================================
+export const FALLBACK_PROVIDER: "DeepSeek" | "Grok" | "OpenRouter" = "DeepSeek";
 
-if (!GEMINI_API_KEY) {
-    console.error("Missing GEMINI_API_KEY from environment.");
-    process.exit(1);
+export async function fetchImageBuffer(url: string): Promise<Buffer | null> {
+    try {
+        // Native fetch fallback
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const arrayBuffer = await response.arrayBuffer();
+        return Buffer.from(arrayBuffer);
+    } catch (error) {
+        console.error("Failed to download image from API:", error);
+        return null;
+    }
 }
-
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-export const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
 export async function loadTopics(): Promise<{ topics: string[]; configPath: string }> {
     const configPath = path.join(process.cwd(), "config", "topics.json");
@@ -38,8 +54,7 @@ export async function generateWithRetry(prompt: string): Promise<string> {
 
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
         try {
-            const result = await model.generateContent(prompt);
-            return result.response.text();
+            return await generateWithGemini(prompt);
         } catch (e: unknown) {
             console.error(`Error generating content on attempt ${attempt}`);
             if (attempt === maxRetries) {
@@ -57,14 +72,64 @@ export async function generateWithRetry(prompt: string): Promise<string> {
                 errMsg.includes("high demand")
             ) {
                 console.log(
-                    `Service unavailable or rate limited. Retrying in ${baseDelay / 1000} seconds...`
+                    `Gemini is unavailable or rate limited. Instantly failing over to ${FALLBACK_PROVIDER}...`
                 );
-                await new Promise((resolve) => setTimeout(resolve, baseDelay));
-                baseDelay *= 2;
+                try {
+                    if (FALLBACK_PROVIDER === "DeepSeek") {
+                        return await generateWithDeepSeek(prompt);
+                    } else if (FALLBACK_PROVIDER === "Grok") {
+                        return await generateWithGrok(prompt);
+                    } else if (FALLBACK_PROVIDER === "OpenRouter") {
+                        return await generateWithOpenRouter(prompt);
+                    }
+                } catch {
+                    console.log(
+                        `${FALLBACK_PROVIDER} fallback also failed. Falling back to retry queue in ${baseDelay / 1000} seconds...`
+                    );
+                    await new Promise((resolve) => setTimeout(resolve, baseDelay));
+                    baseDelay *= 2;
+                }
             } else {
                 return Promise.reject(e);
             }
         }
     }
     return Promise.reject(new Error("Failed to generate content"));
+}
+
+export async function generateNewTopics(amount: number): Promise<string[]> {
+    const prompt = `
+Generate exactly ${amount} brand new, highly technical blog post topics about big tech infrastructure, massive scale systems architecture, or viral engineering news.
+DO NOT output any markdown formatting, text, or explanations. 
+Output ONLY a raw JSON array of ${amount} strings. Example format:
+[
+  "The architecture behind...",
+  "An in-depth analysis of...",
+  "How [Company] scaled..."
+]
+`;
+
+    console.log(`Generating ${amount} new topics to replenish the pool...`);
+    let text = "";
+    try {
+        text = await generateWithRetry(prompt);
+    } catch {
+        console.error("Skipping topic replenishment due to persistent rate limiting.");
+        return [];
+    }
+
+    try {
+        const start = text.indexOf("[");
+        const end = text.lastIndexOf("]");
+        if (start !== -1 && end !== -1) {
+            const jsonText = text.substring(start, end + 1);
+            const parsed = JSON.parse(jsonText);
+            if (Array.isArray(parsed) && parsed.length > 0) {
+                return parsed;
+            }
+        }
+    } catch {
+        console.error("Failed to parse the new topics output:", text);
+    }
+    return [];
 }

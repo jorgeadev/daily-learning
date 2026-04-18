@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-18-beyond-the-rack-why-disaggregation-is-rewriting-t.jpg"
 title: "Beyond the Rack: Why Disaggregation is Rewriting the Rules of Hyperscale Cloud"
 date: 2026-04-18
 ---

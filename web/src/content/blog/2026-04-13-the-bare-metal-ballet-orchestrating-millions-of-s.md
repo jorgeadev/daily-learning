@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-13-the-bare-metal-ballet-orchestrating-millions-of-s.jpg"
 title: "The Bare Metal Ballet: Orchestrating Millions of Serverless Micro-Functions at Hyperscale"
 date: 2026-04-13
 ---

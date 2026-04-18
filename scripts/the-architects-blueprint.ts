@@ -1,5 +1,7 @@
 import * as fs from "fs";
 import * as path from "path";
+import { GoogleGenerativeAI } from "@google/generative-ai";
+import { generateNewTopics } from "./utils";
 
 // Initialize configuration
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY as string;

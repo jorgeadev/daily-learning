@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-17-the-serverless-paradox-conquering-cold-starts-and.jpg"
 title: "The Serverless Paradox: Conquering Cold Starts and State in Hyperscale Realms"
 date: 2026-04-17
 ---

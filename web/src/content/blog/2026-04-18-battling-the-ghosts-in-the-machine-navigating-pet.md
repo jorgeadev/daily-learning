@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-18-battling-the-ghosts-in-the-machine-navigating-pet.jpg"
 title: "Battling the Ghosts in the Machine: Navigating Petabyte-Scale Eventual Consistency with Grace"
 date: 2026-04-18
 ---

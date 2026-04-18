@@ -1,15 +1,15 @@
-name: "Generate Topics Pool"
+name: "Central Automation Pipeline"
 
 on:
   schedule:
-    - cron: "30 */6 * * *" # Runs 30 minutes after the blog post generation
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  run:
+  orchestrate:
     runs-on: ubuntu-latest
 
     permissions:
@@ -31,10 +31,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Run topics generation script
-        run: pnpx tsx scripts/generate-topics.ts
+      - name: Run central orchestrator (Blog, Image, Topics)
+        run: pnpm run start
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
 
       - name: Commit, create PR, and merge
         env:
@@ -43,29 +46,29 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [[ -z $(git status -s config/topics.json) ]]; then
+          if [[ -z $(git status -s web/src/content/blog/ config/topics.json web/public/images/) ]]; then
             echo "No changes to commit"
             exit 0
           fi
 
-          BRANCH_NAME="replenish-topics-$(date +'%Y%m%d%H%M%S')"
+          BRANCH_NAME="auto-thesis-$(date +'%Y%m%d%H%M%S')"
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
 
-          git add config/topics.json
-          git commit -m "chore: replenish topics pool via gemini [skip ci]"
+          git add web/src/content/blog/ config/topics.json web/public/images/
+          git commit -m "docs: auto-generate blueprint thesis & fetch image [skip ci]"
           git push -u origin $BRANCH_NAME
 
           # Create PR
-          PR_URL=$(gh pr create --title "chore: replenish topics pool [skip ci]" \
-                            --body "Automated topic generation via Gemini API." \
+          PR_URL=$(gh pr create --title "docs: auto-generate blueprint thesis [skip ci]" \
+                            --body "Automated blueprint thesis generation with local AI image." \
                             --base main \
                             --head $BRANCH_NAME)
 
           # Give GitHub's API a few seconds to process the newly created PR mapping
           sleep 10
 
-          # Merge PR using squash (GitHub automatically signs squash merges)
+          # Merge PR using squash
           gh pr merge --squash "$PR_URL" || { sleep 10; gh pr merge --squash "$PR_URL"; }
 
       - name: Delete temporary branch

@@ -33,7 +33,6 @@
         "Airbnb’s microservices migration: the challenges of decomposing a massive Ruby on Rails monolith.",
         "How Shopify scales its e-commerce infrastructure to handle massive traffic spikes during Black Friday and Cyber Monday.",
         "Tesla’s real-time connected car data pipeline: ingesting petabytes of autopilot training data seamlessly.",
-        "Palantir’s data integration platform (Foundry): how they handle secure, petabyte-scale ontologies for governments.",
         "DeepMind’s distributed training infrastructure for AlphaFold: orchestration of thousands of GPUs.",
         "Doordash’s logistics engine: solving real-time traveling salesperson problems for millions of daily deliveries.",
         "Telegram’s proprietary MTProto protocol and their incredibly lean server architecture.",
@@ -114,6 +113,9 @@
         "The Interplay of Infiniband, NVMe-oF, and Custom Accelerators in Hyperscale AI Training Clusters",
         "Proactive Failure Domain Isolation and Dependency Modeling in Multi-Region Hyperscale Infrastructure Deployments",
         "Computational Design and Large-Scale Synthesis Pipelines for Novel Oncolytic Virotherapy Agents",
-        "Optimizing Cross-Continental Data Egress Costs and Latency with Programmable Data Planes and Smart Caching Topologies"
+        "Optimizing Cross-Continental Data Egress Costs and Latency with Programmable Data Planes and Smart Caching Topologies",
+        "Stateless Compute and Programmable Data Plane: Architecting Hyperscale Analytics with P4 and DPUs for Real-time Decisioning",
+        "Next-Gen Optical Networks: Leveraging Coherent Optics and AI-Driven Wavelength Routing for Exascale Cloud Interconnects",
+        "CRISPR-Dx to Pan-Antiviral Therapies: Engineering Programmable Nucleic Acid Tools for Rapid Pathogen Identification and Broad-Spectrum Inhibition"
     ]
 }

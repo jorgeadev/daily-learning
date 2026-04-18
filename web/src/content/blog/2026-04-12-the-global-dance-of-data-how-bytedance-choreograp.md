@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-the-global-dance-of-data-how-bytedance-choreograp.jpg"
 title: "The Global Dance of Data: How ByteDance Choreographs Replication Across Continents"
 date: 2026-04-12
 ---

@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-event-driven-architectures-for-scalable-and-resil.jpg"
 title: "Event-Driven Architectures for Scalable and Resilient Microservices: Principles, Patterns, and Future Trends"
 date: 2026-04-12
 ---

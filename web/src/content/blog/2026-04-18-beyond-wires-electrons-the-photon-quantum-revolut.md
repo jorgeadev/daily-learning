@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-18-beyond-wires-electrons-the-photon-quantum-revolut.jpg"
 title: "Beyond Wires & Electrons: The Photon-Quantum Revolution in Hyperscale Data Center Interconnects"
 date: 2026-04-18
 ---

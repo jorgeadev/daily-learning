@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-14-the-quantum-leap-how-atomic-clocks-unlocked-globa.jpg"
 title: "The Quantum Leap: How Atomic Clocks Unlocked Global Consistency in Databases (and Blew Our Minds)"
 date: 2026-04-14
 ---

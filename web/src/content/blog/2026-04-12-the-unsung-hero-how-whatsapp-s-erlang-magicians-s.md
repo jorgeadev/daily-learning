@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-12-the-unsung-hero-how-whatsapp-s-erlang-magicians-s.jpg"
 title: "The Unsung Hero: How WhatsApp's Erlang Magicians Scale to 2 Billion Users with a Handful of Engineers"
 date: 2026-04-12
 ---

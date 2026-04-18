@@ -55,7 +55,12 @@ const { page } = Astro.props;
                                 ? new Date(post.data.date).toISOString().substring(0, 10)
                                 : post.id.substring(0, 10)}
                         </div>
-                        <h2 class="text-xl m-0 leading-[1.4] font-bold mb-3">{post.data.title}</h2>
+                        <h2
+                            class="text-lg m-0 leading-tight font-bold mb-3 line-clamp-2"
+                            title={post.data.title}
+                        >
+                            {post.data.shortTitle || post.data.title}
+                        </h2>
                         {post.body && (
                             <p class="text-sm text-zinc-400 line-clamp-3 leading-relaxed mt-auto">
                                 {post.body

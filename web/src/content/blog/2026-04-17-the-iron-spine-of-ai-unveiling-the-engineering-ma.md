@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-17-the-iron-spine-of-ai-unveiling-the-engineering-ma.jpg"
 title: "The Iron Spine of AI: Unveiling the Engineering Marvels of Nvidia DGX SuperPOD"
 date: 2026-04-17
 ---

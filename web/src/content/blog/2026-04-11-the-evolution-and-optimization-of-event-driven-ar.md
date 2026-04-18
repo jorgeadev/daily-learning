@@ -1,4 +1,5 @@
 ---
+image: "/images/2026-04-11-the-evolution-and-optimization-of-event-driven-ar.jpg"
 title: "The Evolution and Optimization of Event-Driven Architectures for Scalable and Resilient Distributed Systems"
 date: 2026-04-11
 ---
