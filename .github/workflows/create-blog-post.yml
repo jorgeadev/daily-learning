@@ -57,13 +57,13 @@ jobs:
                   git push -u origin $BRANCH_NAME
 
                   # Create PR
-                  gh pr create --title "docs: auto-generate blueprint thesis [skip ci]" \
-                               --body "Automated blueprint thesis generation." \
-                               --base main \
-                               --head $BRANCH_NAME
+                  PR_URL=$(gh pr create --title "docs: auto-generate blueprint thesis [skip ci]" \
+                                    --body "Automated blueprint thesis generation." \
+                                    --base main \
+                                    --head $BRANCH_NAME)
 
                   # Merge PR using squash (GitHub automatically signs squash merges)
-                  gh pr merge --squash
+                  gh pr merge --squash --yes "$PR_URL"
 
             - name: Delete temporary branch
               if: always()
