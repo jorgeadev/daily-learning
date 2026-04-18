@@ -63,7 +63,7 @@ jobs:
                                     --head $BRANCH_NAME)
 
                   # Merge PR using squash (GitHub automatically signs squash merges)
-                  gh pr merge --squash --yes "$PR_URL"
+                  gh pr merge --squash "$PR_URL"
 
             - name: Delete temporary branch
               if: always()
