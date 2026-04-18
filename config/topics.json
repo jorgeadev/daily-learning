@@ -102,6 +102,11 @@
         "Evolving Erasure Coding Schemes for Zettabyte-Scale Resilient Object Storage with Real-time Data Integrity Verification",
         "From Trillions of Events to Actionable Insights: Building Hyperscale AIOps Platforms for Proactive Anomaly Detection in Distributed Systems",
         "Optimizing Cold Start Latency in Serverless Edge Functions: A Deep Dive into MicroVM Snapshotting and Kernel-Level Virtualization Techniques",
-        "Leveraging CRISPR-Cas for Programmable DNA Data Archival and Retrieval: Engineering Biological Systems for Future Petabyte-Scale Storage"
+        "Leveraging CRISPR-Cas for Programmable DNA Data Archival and Retrieval: Engineering Biological Systems for Future Petabyte-Scale Storage",
+        "Optimizing Serverless Cold Starts at Trillions of Invocations: Deep Dive into Hyperscale Resource Scheduling",
+        "Global Messaging at Scale: Real-time Consistency Across Distributed Graph Databases for Billions",
+        "Architecting Post-Quantum Cryptography Migrations for Hyperscale Cloud Infrastructure",
+        "Programmable Data Planes (P4) and SmartNICs: Revolutionizing Cloud Data Center Latency and Throughput",
+        "Computational Genomics for Viral Vector Engineering: Predictive Design of Next-Gen Therapeutic Delivery Systems"
     ]
 }
