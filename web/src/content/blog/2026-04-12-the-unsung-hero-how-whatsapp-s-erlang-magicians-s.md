@@ -1,4 +1,8 @@
-# The Unsung Hero: How WhatsApp's Erlang Magicians Scale to 2 Billion Users with a Handful of Engineers
+---
+title: "The Unsung Hero: How WhatsApp's Erlang Magicians Scale to 2 Billion Users with a Handful of Engineers"
+date: 2026-04-12
+---
+
 
 Imagine a global communication network, connecting billions of people across continents, delivering trillions of messages annually. Now, imagine this colossal infrastructure, one of the most demanding real-time systems on the planet, being built and maintained by a team of engineers small enough to fit into a couple of conference rooms. Sounds like science fiction, right? A fever dream from a bygone era of internet startups before the era of hyperscale cloud providers and massive SRE teams?
 

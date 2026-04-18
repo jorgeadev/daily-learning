@@ -1,4 +1,8 @@
-# Architecting the Future of Medicine: How We're Hacking Biology's Delivery Trucks for Next-Gen Gene Therapies
+---
+title: "Architecting the Future of Medicine: How We're Hacking Biology's Delivery Trucks for Next-Gen Gene Therapies"
+date: 2026-04-12
+---
+
 
 Imagine a world where genetic diseases aren't just managed, but *cured*. Where a single, precisely delivered therapeutic gene can rewrite a flawed biological script, turning a debilitating condition into a distant memory. This isn't science fiction; it's the audacious promise of gene therapy. And while the hype around "gene editing" often steals the spotlight, the true unsung hero, the ultimate engineering challenge, lies in *delivery*.
 

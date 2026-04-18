@@ -1,4 +1,8 @@
-# The Architecture, Challenges, and Mathematical Underpinnings of Distributed Consensus Protocols
+---
+title: "The Architecture, Challenges, and Mathematical Underpinnings of Distributed Consensus Protocols"
+date: 2026-04-11
+---
+
 
 ## Abstract
 This paper provides an exhaustive, thesis-level examination of consensus protocols in distributed systems, specifically evaluating the transition from Paxos to Raft...

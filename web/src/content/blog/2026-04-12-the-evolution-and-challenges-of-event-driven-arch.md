@@ -1,4 +1,8 @@
-# The Evolution and Challenges of Event-Driven Architectures: Achieving Consistency and Resilience in Modern Distributed Systems
+---
+title: "The Evolution and Challenges of Event-Driven Architectures: Achieving Consistency and Resilience in Modern Distributed Systems"
+date: 2026-04-12
+---
+
 
 ## Abstract / Executive Summary
 

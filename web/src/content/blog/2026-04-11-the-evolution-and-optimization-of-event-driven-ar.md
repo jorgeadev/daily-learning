@@ -1,4 +1,8 @@
-# The Evolution and Optimization of Event-Driven Architectures for Scalable and Resilient Distributed Systems
+---
+title: "The Evolution and Optimization of Event-Driven Architectures for Scalable and Resilient Distributed Systems"
+date: 2026-04-11
+---
+
 
 ## Abstract / Executive Summary
 

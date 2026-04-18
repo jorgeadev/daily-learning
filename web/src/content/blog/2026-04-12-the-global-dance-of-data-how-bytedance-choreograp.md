@@ -1,4 +1,8 @@
-# The Global Dance of Data: How ByteDance Choreographs Replication Across Continents
+---
+title: "The Global Dance of Data: How ByteDance Choreographs Replication Across Continents"
+date: 2026-04-12
+---
+
 
 In the blink of an eye, a new TikTok trend explodes, a Douyin live stream captivates millions, or a CapCut edit goes viral. From Beijing to Berlin, Jakarta to Johannesburg, ByteDance's applications serve billions of users across every imaginable time zone. This isn't just a triumph of algorithms and content; it's a monumental feat of distributed systems engineering, a ballet of bits and bytes orchestrated across a global tapestry of data centers.
 

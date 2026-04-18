@@ -1,4 +1,8 @@
-# HeliosDB: Deconstructing the Hype and the Architectural Revolution Underneath
+---
+title: "HeliosDB: Deconstructing the Hype and the Architectural Revolution Underneath"
+date: 2026-04-12
+---
+
 
 The digital universe is expanding at an exponential rate, and with it, the complexity of the relationships within our data. For years, we've wrestled with the Gordian knot of connecting disparate data points, understanding intricate networks, and extracting real-time insights from a sea of interconnected information. Traditional relational databases often buckle under the weight of recursive queries, while first-generation graph databases, while powerful, often hit scalability ceilings or introduce operational complexity that can bring even the most seasoned SRE team to its knees.
 

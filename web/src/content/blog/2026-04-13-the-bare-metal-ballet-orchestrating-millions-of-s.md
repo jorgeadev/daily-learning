@@ -1,4 +1,8 @@
-# The Bare Metal Ballet: Orchestrating Millions of Serverless Micro-Functions at Hyperscale
+---
+title: "The Bare Metal Ballet: Orchestrating Millions of Serverless Micro-Functions at Hyperscale"
+date: 2026-04-13
+---
+
 
 You just typed `aws lambda deploy`. Or perhaps `gcloud functions deploy`. Maybe it was `az function app publish`. A few seconds later, your code is live, ready to serve requests, scale to infinity, and cost you nothing when idle. It feels like magic, doesn't it? A testament to modern cloud computing, where infrastructure fades into the background, leaving you to focus purely on code.
 

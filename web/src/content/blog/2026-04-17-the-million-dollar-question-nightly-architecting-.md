@@ -1,4 +1,8 @@
-# The Million-Dollar Question, Nightly: Architecting Zillow's Zestimate Machine Learning Pipeline
+---
+title: "The Million-Dollar Question, Nightly: Architecting Zillow's Zestimate Machine Learning Pipeline"
+date: 2026-04-17
+---
+
 
 Ever found yourself idly scrolling through Zillow, perhaps fantasizing about your dream home, or maybe just checking what your neighbor's house is "worth"? That number, the Zestimate, isn't plucked from thin air. It's the tip of an iceberg, a testament to one of the most sophisticated, large-scale machine learning and big data pipelines operating today. Every single night, for over 100 million homes across the United States, Zillow's systems crunch an unfathomable amount of data, learn from millions of transactions, and recalibrate an estimated value – a feat of engineering that's as fascinating as it is impactful.
 

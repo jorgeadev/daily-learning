@@ -1,4 +1,8 @@
-# The Butterfly Effect in the Cloud: How One DNS Typo Decimated Half the Internet
+---
+title: "The Butterfly Effect in the Cloud: How One DNS Typo Decimated Half the Internet"
+date: 2026-04-14
+---
+
 
 Picture this: it’s a Tuesday morning. Your coffee is brewing, your IDE is open, and you're ready to tackle that gnarly bug. Suddenly, Slack stops loading. Your monitoring dashboard goes blank. That critical API you depend on? Silent. A quick check of social media confirms your worst fears: it's not just you. The internet, or at least a significant chunk of it, feels… *broken*.
 

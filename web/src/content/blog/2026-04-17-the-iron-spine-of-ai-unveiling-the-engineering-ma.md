@@ -1,4 +1,8 @@
-# The Iron Spine of AI: Unveiling the Engineering Marvels of Nvidia DGX SuperPOD
+---
+title: "The Iron Spine of AI: Unveiling the Engineering Marvels of Nvidia DGX SuperPOD"
+date: 2026-04-17
+---
+
 
 The digital world is abuzz. Every other headline screams about the latest AI breakthrough: generative models crafting prose indistinguishable from human authors, generating photorealistic images from a few words, or even composing music that tugs at the heartstrings. It's magic, right? A digital genie granting wishes. But behind every "poof" of AI magic lies an astonishing, almost brutal level of **physical engineering**.
 

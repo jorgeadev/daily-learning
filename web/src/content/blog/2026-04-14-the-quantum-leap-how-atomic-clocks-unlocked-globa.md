@@ -1,4 +1,8 @@
-# The Quantum Leap: How Atomic Clocks Unlocked Global Consistency in Databases (and Blew Our Minds)
+---
+title: "The Quantum Leap: How Atomic Clocks Unlocked Global Consistency in Databases (and Blew Our Minds)"
+date: 2026-04-14
+---
+
 
 ## A World Without Time: The Unbearable Lightness of Being Distributed
 

@@ -1,4 +1,8 @@
-# Event-Driven Architectures for Scalable and Resilient Microservices: Principles, Patterns, and Future Trends
+---
+title: "Event-Driven Architectures for Scalable and Resilient Microservices: Principles, Patterns, and Future Trends"
+date: 2026-04-12
+---
+
 
 ## Abstract / Executive Summary
 

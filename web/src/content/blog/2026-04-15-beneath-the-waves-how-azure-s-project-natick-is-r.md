@@ -1,4 +1,8 @@
-# Beneath the Waves: How Azure's Project Natick is Redefining Sustainable Computing
+---
+title: "Beneath the Waves: How Azure's Project Natick is Redefining Sustainable Computing"
+date: 2026-04-15
+---
+
 
 ---
 
