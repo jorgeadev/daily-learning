@@ -16,7 +16,6 @@
         "The architecture of Uber’s Dispatch System: handling thousands of real-time matches per second.",
         "Stripe’s real-time ledger infrastructure: how they ensure 100% financial consistency at massive scale.",
         "TikTok’s recommendation algorithm infrastructure: serving ultra-personalized videos to over a billion users.",
-        "Dropbox’s migration from AWS to their custom physical infrastructure (Magic Pocket).",
         "Discord’s real-time messaging architecture: handling trillions of messages utilizing Cassandra and Rust.",
         "Cloudflare’s Edge computing architecture: how Workers deploy code to hundreds of data centers in milliseconds.",
         "AWS DynamoDB under the hood: how Amazon scales a NoSQL database seamlessly across regions.",
@@ -130,6 +129,9 @@
         "Dissecting the 'Read-After-Write' Consistency Crisis in Modern, Globally-Distributed Social Graphs",
         "The Unspoken Trade-offs of Multi-Region Active-Active Architectures: Beyond the 11 Nines",
         "Deconstructing the Data Mesh: Implementing Federated Computational Governance at Petabyte Scale",
-        "Postmortem of a Cascading Failure: Analyzing the Thermodynamic Limits of Hyperscale Data Center Cooling"
+        "Postmortem of a Cascading Failure: Analyzing the Thermodynamic Limits of Hyperscale Data Center Cooling",
+        "The Architectural Paradigm Shift: Implementing Disaggregated Storage and Compute for Hyperscale AI Training Clusters.",
+        "Engineering Global Consistency: Distributed Tracing and Observability for Eventual Consistency Models in Planet-Scale Databases.",
+        "Beyond Natural Tropism: Engineering Synthetic Viral Vectors for Targeted Organ Delivery in Advanced Gene Therapies."
     ]
 }
