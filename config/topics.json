@@ -124,6 +124,8 @@
         "The Physics of Viral Spread: Modeling and Engineering Contagion Dynamics in Social Feeds",
         "The Unspoken Trade-offs of Global Anycast: A Deep Dive into TCP Meltdowns and Geo-aware Load Balancing",
         "Beyond Sharding: Implementing Distributed SQL with True Serializability at Petabyte Scale",
-        "Reverse Engineering the Edge: Dissecting the Hardware and Protocol Stack of a Major CDN's Next-Gen POPs"
+        "Deconstructing Meta's Threads: The Real-Time Feed Architecture for 100M+ Users on Day One",
+        "Beyond Kubernetes: The Rise of WebAssembly-Based Orchestration for Heterogeneous Edge Compute",
+        "The Physics of Cooling: How Hyperscalers are Designing Direct-to-Chip Two-Phase Immersion Systems for 100kW+ Racks"
     ]
 }
