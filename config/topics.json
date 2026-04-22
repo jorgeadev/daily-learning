@@ -92,7 +92,6 @@
         "Computational Genomics for Viral Vector Engineering: Predictive Design of Next-Gen Therapeutic Delivery Systems",
         "The Architectural Evolution of Hyperscale Data Center Networking from Clos to Advanced SDN Topologies",
         "Deep Dive into Amazon DynamoDB's Consistent Hashing and Replication Model for Exabyte-Scale Durability",
-        "Real-Time Stream Processing at Petabyte Scale: Challenges and Solutions for Low-Latency Analytics with Apache Flink and Kafka",
         "Designing and Deploying Global Load Balancing for Billions of Requests: From DNS-Based to Anycast Architectures",
         "The Engineering Challenges of Maintaining Strong Global Consistency in Hyperscale Distributed Transactional Databases",
         "Proactive Failure Domain Isolation and Dependency Modeling in Multi-Region Hyperscale Infrastructure Deployments",
@@ -158,6 +157,9 @@
         "Postmortem Analysis of the Cascading Failure in a Major CDN's Anycast Routing During a Global Sporting Event",
         "CXL-enabled computational storage: Architectural implications for extreme-scale data processing and resource disaggregation in cloud environments.",
         "Achieving strong consistency in globally distributed transactional databases through novel causal ordering and conflict resolution mechanisms.",
-        "Synthetic virology for targeted oncolytic therapies: Overcoming tumor microenvironment barriers and immunogenicity challenges."
+        "Synthetic virology for targeted oncolytic therapies: Overcoming tumor microenvironment barriers and immunogenicity challenges.",
+        "Hyperscale Photonic Interconnects for AI Superclusters: Overcoming Electrical Bottlenecks",
+        "Leveraging eBPF for Hyperscale Network Observability and Security in Cloud-Native Environments",
+        "Architecting AAV Capsids for Enhanced Tissue Tropism and Reduced Immunogenicity in Gene Therapy Delivery"
     ]
 }
