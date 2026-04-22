@@ -93,7 +93,6 @@
         "The Architectural Evolution of Hyperscale Data Center Networking from Clos to Advanced SDN Topologies",
         "Deep Dive into Amazon DynamoDB's Consistent Hashing and Replication Model for Exabyte-Scale Durability",
         "Real-Time Stream Processing at Petabyte Scale: Challenges and Solutions for Low-Latency Analytics with Apache Flink and Kafka",
-        "CRISPR-Cas System Engineering for Next-Generation Antiviral Therapies: Delivery Mechanisms and Off-Target Mitigation Strategies",
         "Designing and Deploying Global Load Balancing for Billions of Requests: From DNS-Based to Anycast Architectures",
         "The Engineering Challenges of Maintaining Strong Global Consistency in Hyperscale Distributed Transactional Databases",
         "Proactive Failure Domain Isolation and Dependency Modeling in Multi-Region Hyperscale Infrastructure Deployments",
@@ -156,6 +155,9 @@
         "Synthetic biology's frontier: engineering novel viral capsids for enhanced gene therapy delivery and immunogenicity control.",
         "The Unspoken Trade-offs of Global Active-Active Database Architectures at Petabyte Scale",
         "Dissecting the Hardware-Software Co-Design of Modern AI Hyperclusters: Beyond Just More GPUs",
-        "Postmortem Analysis of the Cascading Failure in a Major CDN's Anycast Routing During a Global Sporting Event"
+        "Postmortem Analysis of the Cascading Failure in a Major CDN's Anycast Routing During a Global Sporting Event",
+        "CXL-enabled computational storage: Architectural implications for extreme-scale data processing and resource disaggregation in cloud environments.",
+        "Achieving strong consistency in globally distributed transactional databases through novel causal ordering and conflict resolution mechanisms.",
+        "Synthetic virology for targeted oncolytic therapies: Overcoming tumor microenvironment barriers and immunogenicity challenges."
     ]
 }
