@@ -22,7 +22,6 @@
         "Reddit’s handling of immense traffic spikes during viral world events or massive AMAs.",
         "Pinterest’s machine learning infrastructure: how they serve visually similar image matches in real-time.",
         "Slack’s transition to a modern real-time architecture to reduce client CPU usage and handle massive channels.",
-        "Epic Games' Unreal Engine multiplayer infrastructure: scaling Fortnite backend for millions of concurrent users.",
         "Meta’s Memcached architecture: scaling distributed caching to handle trillions of requests per second.",
         "Twitch’s massive live video streaming infrastructure: minimizing latency for millions of concurrent viewers.",
         "Zoom’s video routing architecture and scaling their network backbone unexpectedly during the pandemic.",
@@ -174,6 +173,9 @@
         "Scaling Foundation Models: Architectural Strategies for Terabyte-Scale Parameter Training on Distributed GPU Clusters",
         "Decoupling the Monolith: Google's implementation of Service Weaver for planet-scale Spanner control plane re-architecting",
         "The physics of data locality: A technical deep-dive into Meta's thermal-aware job scheduler for hyperscale GPU clusters",
-        "How Netflix migrated its entire CDN to a purpose-built QUIC-based transport layer for 4K streaming under adversarial packet loss"
+        "How Netflix migrated its entire CDN to a purpose-built QUIC-based transport layer for 4K streaming under adversarial packet loss",
+        "The Architectural Evolution of Hyperscale Data Center Network Fabrics for Terabit-Scale Interconnects and Congestion Management",
+        "Achieving Global Strong Consistency with Shard-Splitting and Multi-Paxos Variants in Planet-Scale Distributed Database Systems",
+        "CRISPR-Guided Phage Engineering: Precision Delivery and Genetically Modified Viral Vectors for In Vivo Therapeutic Applications"
     ]
 }
