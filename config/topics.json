@@ -120,7 +120,6 @@
         "Advanced Viral Vector Design: Engineering Enhanced Tropism and Reduced Immunogenicity in Next-Generation Gene Therapies",
         "The Technical Architecture Behind Scaling Foundational AI Models to Trillion-Parameter Complexity",
         "Decoupling Compute and Memory at Hyperscale: Engineering Disaggregated Data Centers for Future Workloads",
-        "Engineering Predictive Genomics: Building Real-time Distributed Systems for Global Viral Surveillance",
         "Deconstructing the Global Request Router: How Meta's Sharded Edge Network Handles 10M+ QPS with Sub-Millisecond Latency",
         "Beyond Kubernetes: The Rise of Cell-Based Architectures for Planetary-Scale Compute at Google and Amazon",
         "The Viral Engineering Playbook: Reverse-Engineering the Real-Time Synchronization Stack Behind Collaborative Features in Figma and Notion",
@@ -170,6 +169,9 @@
         "Advanced AAV Vector Engineering for Precision Gene Therapy Delivery: Navigating Immunogenicity and Tissue Specificity",
         "The Architectural Evolution of Memory-Disaggregated Systems in Hyperscale Data Centers driven by CXL",
         "Beyond Consensus: Architecting Geo-Distributed Transactional Databases for Extreme Consistency and Throughput",
-        "Synthetic Virology: Designing Next-Generation Phage Therapies for Combatting Antimicrobial Resistance at Scale"
+        "Synthetic Virology: Designing Next-Generation Phage Therapies for Combatting Antimicrobial Resistance at Scale",
+        "Disaggregating Compute and Memory at Hyperscale: Architectural Implications for Next-Gen Data Center Fabrics",
+        "CRISPR-Cas13's New Frontier: Reprogramming Viral RNA Sensing for Broad-Spectrum Antiviral Therapies",
+        "Scaling Foundation Models: Architectural Strategies for Terabyte-Scale Parameter Training on Distributed GPU Clusters"
     ]
 }
