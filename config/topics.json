@@ -146,7 +146,6 @@
         "Deconstructing the Hardware-Software Co-Design of Next-Generation Hyperscale AI Training Clusters",
         "Postmortem Analysis of the Cascading Failure in a Multi-Region Serverless Platform During a Coordinated Cyber Attack",
         "Leveraging eBPF for dynamic network observability and intelligent traffic steering in hyperscale cloud environments.",
-        "Multi-modal foundation model inference at planetary scale: architectural challenges in GPU orchestration and low-latency serving.",
         "Synthetic biology's frontier: engineering novel viral capsids for enhanced gene therapy delivery and immunogenicity control.",
         "The Unspoken Trade-offs of Global Active-Active Database Architectures at Petabyte Scale",
         "Dissecting the Hardware-Software Co-Design of Modern AI Hyperclusters: Beyond Just More GPUs",
@@ -168,6 +167,9 @@
         "How Cloudflare Migrated Its Entire Global Control Plane to eBPF and WebAssembly on Day One: Isolating Multi-Tenant Edge Compute at Wire Speed",
         "The Distributed Systems Challenges of Serving Trillion-Parameter AI Models in Real-time at Hyperscale",
         "Liquid Immersion Cooling Architectures for AI-Accelerated Data Centers: Efficiency and Scalability Beyond the Rack",
-        "Advanced AAV Vector Engineering for Precision Gene Therapy Delivery: Navigating Immunogenicity and Tissue Specificity"
+        "Advanced AAV Vector Engineering for Precision Gene Therapy Delivery: Navigating Immunogenicity and Tissue Specificity",
+        "The Architectural Evolution of Memory-Disaggregated Systems in Hyperscale Data Centers driven by CXL",
+        "Beyond Consensus: Architecting Geo-Distributed Transactional Databases for Extreme Consistency and Throughput",
+        "Synthetic Virology: Designing Next-Generation Phage Therapies for Combatting Antimicrobial Resistance at Scale"
     ]
 }
