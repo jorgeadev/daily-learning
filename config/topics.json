@@ -116,7 +116,6 @@
         "Beyond Natural Tropism: Engineering Synthetic Viral Vectors for Targeted Organ Delivery in Advanced Gene Therapies.",
         "The Engineering Challenges of Disaggregated Compute and Memory Architectures for Petabyte-Scale AI Model Training",
         "Advanced Viral Vector Design: Engineering Enhanced Tropism and Reduced Immunogenicity in Next-Generation Gene Therapies",
-        "The Technical Architecture Behind Scaling Foundational AI Models to Trillion-Parameter Complexity",
         "Decoupling Compute and Memory at Hyperscale: Engineering Disaggregated Data Centers for Future Workloads",
         "Deconstructing the Global Request Router: How Meta's Sharded Edge Network Handles 10M+ QPS with Sub-Millisecond Latency",
         "Beyond Kubernetes: The Rise of Cell-Based Architectures for Planetary-Scale Compute at Google and Amazon",
@@ -176,6 +175,9 @@
         "How Netflix migrated its entire CDN to a purpose-built QUIC-based transport layer for 4K streaming under adversarial packet loss",
         "The Architectural Evolution of Hyperscale Data Center Network Fabrics for Terabit-Scale Interconnects and Congestion Management",
         "Achieving Global Strong Consistency with Shard-Splitting and Multi-Paxos Variants in Planet-Scale Distributed Database Systems",
-        "CRISPR-Guided Phage Engineering: Precision Delivery and Genetically Modified Viral Vectors for In Vivo Therapeutic Applications"
+        "CRISPR-Guided Phage Engineering: Precision Delivery and Genetically Modified Viral Vectors for In Vivo Therapeutic Applications",
+        "The architectural intricacies of hyper-scale distributed consensus protocols powering zettabyte-scale globally replicated data stores.",
+        "Disaggregated optical network fabrics and P4-programmable data planes: Architecting the next-generation interconnect for planetary-scale data centers.",
+        "mRNA vaccine platform engineering: Advancements in lipid nanoparticle delivery, manufacturing scalability, and rapid immunogen design for emerging pathogens."
     ]
 }
