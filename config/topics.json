@@ -152,7 +152,6 @@
         "The architectural paradigms and challenges of serving multi-trillion parameter foundation models at global scale with single-digit millisecond latency.",
         "Deep dive into disaggregated optical-IP data center networks and their role in enabling extreme-scale AI/ML workloads, exploring RoCEv2, DPU/IPU integration, and P4 programmable switching.",
         "The engineering principles and scaling pathways for CRISPR-Cas-based biosensors to deliver ultra-sensitive, multiplexed, and decentralized pathogen detection capabilities.",
-        "Deconstructing Meta's Threads: The Real-Time Feed Architecture for 100M+ Users in 5 Days",
         "Beyond Kubernetes: The Rise of MicroVM-Based Serverless Platforms at Hyperscale",
         "The Physics of Cooling: How Google's New Liquid Immersion Data Centers Achieve PUE < 1.05",
         "Defeating the CAP Theorem: A Deep Dive into Amazon's Multi-Region Active-Active Aurora Architecture for Global Low-Latency Writes",
@@ -186,6 +185,9 @@
         "Precision Genetic Engineering: The Rise of Base, Prime, and Epigenetic Editing for Therapeutic Applications",
         "The Architectural Evolution of Disaggregated Storage and Compute in Hyperscale Cloud Environments",
         "Beyond 400GbE: The Role of Programmable Data Planes and Silicon Photonics in Future Intra-Datacenter Networks",
-        "Precision Gene Editing: Latest Advances in Prime Editing and Base Editing Technologies for Inherited Diseases"
+        "Precision Gene Editing: Latest Advances in Prime Editing and Base Editing Technologies for Inherited Diseases",
+        "Optimizing Hypervisor-Level Co-Scheduling and Memory Paging for Near-Zero Cold Starts in Petabyte-Scale Serverless Architectures",
+        "The Cutting Edge of CRISPR-Cas Engineered Phage Therapeutics: Overcoming Delivery and Immunogenicity Challenges for Multi-Drug Resistant Pathogens",
+        "Architecting Petabyte-Scale Data Storage Solutions Using Enzymatically Synthesized DNA Polymers and Advanced Sequencing Readout Techniques"
     ]
 }
