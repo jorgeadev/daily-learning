@@ -148,7 +148,6 @@
         "Achieving strong consistency in globally distributed transactional databases through novel causal ordering and conflict resolution mechanisms.",
         "Synthetic virology for targeted oncolytic therapies: Overcoming tumor microenvironment barriers and immunogenicity challenges.",
         "Hyperscale Photonic Interconnects for AI Superclusters: Overcoming Electrical Bottlenecks",
-        "Leveraging eBPF for Hyperscale Network Observability and Security in Cloud-Native Environments",
         "Architecting AAV Capsids for Enhanced Tissue Tropism and Reduced Immunogenicity in Gene Therapy Delivery",
         "The architectural paradigms and challenges of serving multi-trillion parameter foundation models at global scale with single-digit millisecond latency.",
         "Deep dive into disaggregated optical-IP data center networks and their role in enabling extreme-scale AI/ML workloads, exploring RoCEv2, DPU/IPU integration, and P4 programmable switching.",
@@ -184,6 +183,9 @@
         "The Phage-Storage Paradigm: Engineering Bacteriophage Virions for Petabyte-Scale Biological Data Storage and Retrieval Systems",
         "The Interconnect Revolution: Architecting Multi-Trillion Parameter AI Models with Next-Gen Compute Fabrics",
         "Global Strong Consistency at Scale: Deconstructing Hyperscale Distributed Transactional Databases",
-        "Precision Genetic Engineering: The Rise of Base, Prime, and Epigenetic Editing for Therapeutic Applications"
+        "Precision Genetic Engineering: The Rise of Base, Prime, and Epigenetic Editing for Therapeutic Applications",
+        "The Architectural Evolution of Disaggregated Storage and Compute in Hyperscale Cloud Environments",
+        "Beyond 400GbE: The Role of Programmable Data Planes and Silicon Photonics in Future Intra-Datacenter Networks",
+        "Precision Gene Editing: Latest Advances in Prime Editing and Base Editing Technologies for Inherited Diseases"
     ]
 }
