@@ -177,7 +177,6 @@
         "Optimizing Hypervisor-Level Co-Scheduling and Memory Paging for Near-Zero Cold Starts in Petabyte-Scale Serverless Architectures",
         "The Cutting Edge of CRISPR-Cas Engineered Phage Therapeutics: Overcoming Delivery and Immunogenicity Challenges for Multi-Drug Resistant Pathogens",
         "Architecting Petabyte-Scale Data Storage Solutions Using Enzymatically Synthesized DNA Polymers and Advanced Sequencing Readout Techniques",
-        "CXL-enabled Memory Pooling and Tiering: A Deep Dive into Disaggregated Architecture for Hyperscale Clouds and its Latency Implications",
         "Beyond gRPC: Crafting Ultra-Low Latency, High-Throughput Communication Primitives for Inter-Service Mesh Data Planes in Hyperscale Environments",
         "CRISPR-Cas as a Programmable Antiviral: Unpacking the Mechanisms and Challenges of Engineering Broad-Spectrum Viral Resistance into Mammalian Cells",
         "The Architectural Shift: Disaggregating Network Functions and Optical Switching in Hyperscale Data Centers",
@@ -214,6 +213,9 @@
         "The Latency Tax of Live: How YouTube's Playback Infrastructure Serves 1 Billion Users with Sub-Millisecond ABR Switching via a Quic-Based Control Plane",
         "Idempotency at Exabyte Scale: Enforcing Exactly-Once Semantics in Globally Distributed Storage Backends",
         "Demystifying Meta's Zonal Shuffle: A Deep Dive into Cross-Region VM Migration with Sub-Second Blips",
-        "How Stripe Orchestrates Transactional Workflows Across 40+ Data Centers with a Zero-Overhead Consensus Protocol"
+        "How Stripe Orchestrates Transactional Workflows Across 40+ Data Centers with a Zero-Overhead Consensus Protocol",
+        "The Architectural Evolution of Interconnects for Trillion-Parameter AI Model Training: Beyond NVLink and InfiniBand",
+        "Engineering Petabyte-Scale Observability: Distributed Tracing and Causal Analysis in Hyperscale Microservice Architectures",
+        "The System Architecture and Data Challenges of Foundation Models for De Novo Protein Design and High-Throughput Drug Discovery"
     ]
 }
