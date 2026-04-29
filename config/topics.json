@@ -68,7 +68,6 @@
         "Architecting exascale asynchronous data pipelines for real-time federated learning across global edge deployments.",
         "CRISPR-CasX: Engineering novel non-integrating viral delivery vectors for high-specificity in-vivo genomic editing.",
         "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity",
-        "Architecting for Causal Consistency in Geo-Distributed Transactional Databases: Beyond Traditional Consensus Protocols for Global Scale",
         "CRISPR-Engineered Phage Lysins: A Novel Approach to Combatting Multi-Drug Resistant Bacterial Biofilms in Clinical Settings",
         "Deconstructing Hyperscale Transactional Consistency: The role of geo-distributed consensus protocols and hybrid logical clocks in global cloud databases.",
         "The Cambrian Explosion of Data Planes: eBPF, P4, and the programmable infrastructure powering next-gen cloud networking at petabit scale.",
@@ -208,6 +207,9 @@
         "The programmable pathogen: Inside the synthetic biology breakthroughs driving self-amplifying mRNA vaccines and targeted viral vector gene therapies.",
         "Optimizing Tail Latency in Hyperscale Distributed Databases Through Advanced Congestion Control and Network Prioritization",
         "The Evolution of Cloud-Native Workload Scheduling: From Bin Packing to AI-Driven Predictive Resource Allocation",
-        "CRISPR-Associated Transposases (CAST) for Programmable Large-Fragment Genomic Integration in Antiviral Gene Therapy"
+        "CRISPR-Associated Transposases (CAST) for Programmable Large-Fragment Genomic Integration in Antiviral Gene Therapy",
+        "Advanced Serverless Runtime Optimization: Deep Dive into MicroVM Snapshotting and Predictive Pre-warming for Hyperscale FaaS Platforms",
+        "The Engineering of Global Consensus: How TrueTime and Hybrid Logical Clocks Achieve External Consistency in Massively Distributed SQL Databases",
+        "Next-Generation mRNA Vaccine Delivery: Technical Challenges and Breakthroughs in Lipid Nanoparticle Alternatives and Self-Amplifying RNA Constructs"
     ]
 }
