@@ -118,7 +118,6 @@
         "The Unseen Cost of Virality: A Technical Post-Mortem of the AI Image Generator Stampede and Its Cascading Cloud Failures",
         "Global distributed consensus at scale: Architecting strongly consistent multi-region transactional systems for petabyte-scale data.",
         "Custom silicon and AI infrastructure: A deep dive into the hardware-software co-design for hyperscale deep learning accelerators (e.g., TPUs, Inferentia).",
-        "Engineering mRNA platforms for personalized medicine: Scalable manufacturing and delivery architectures for next-generation cancer immunotherapies.",
         "Deconstructing the Global Request Router: How Meta's Edge Network Handles 10 Trillion Queries Per Day",
         "Beyond Kubernetes: The Unconventional Orchestration Systems Powering Hyperscale AI Training Clusters",
         "Postmortem Analysis of the 2024 Multi-Cloud DNS Cascade: Engineering Lessons from a Global Resolution Failure",
@@ -222,6 +221,9 @@
         "The Immutable Serverless Kernel: How an Infrastructure Giant Replaced its Entire Hypervisor Fleet Without a Single User-Detectable Packet Drop",
         "Beyond NUMA: Disaggregated Memory and Compute Architectures in Next-Gen Hyperscale Data Centers",
         "The Invisible Fabric: Architecting Hyperscale Network Overlays for Global Multi-Cloud Deployments",
-        "Synthetic Biology's Vanguard: Engineering Self-Amplifying RNA and Novel Viral Vectors for Pandemic Preparedness"
+        "Synthetic Biology's Vanguard: Engineering Self-Amplifying RNA and Novel Viral Vectors for Pandemic Preparedness",
+        "The Convergence of Optical Switching and Quantum Networking for Inter-Datacenter Low-Latency AI Fabric Architectures.",
+        "CXL 3.0 and Memory Tiering: Architecting Disaggregated, Petabyte-Scale Memory Pools in Hyperscale Clouds.",
+        "CRISPR Prime Editing's Leap Forward: Engineering Precise Genomic Edits with Enhanced Efficiency and Reduced Off-Target Effects."
     ]
 }
