@@ -72,7 +72,6 @@
         "Evolving Hyperscale Networks: The Interplay of Software-Defined Networking and BGP-EVPN for Inter-Datacenter Connectivity.",
         "Engineering Next-Gen mRNA Vaccines: Advancements in Lipid Nanoparticle Delivery Systems and Immunostimulatory Design.",
         "CXL 3.0 and Disaggregated Memory Pooling: Architecting the Next Generation of Hyperscale Data Center Resource Utilization",
-        "Evolving Erasure Coding Schemes for Zettabyte-Scale Resilient Object Storage with Real-time Data Integrity Verification",
         "From Trillions of Events to Actionable Insights: Building Hyperscale AIOps Platforms for Proactive Anomaly Detection in Distributed Systems",
         "Optimizing Cold Start Latency in Serverless Edge Functions: A Deep Dive into MicroVM Snapshotting and Kernel-Level Virtualization Techniques",
         "Leveraging CRISPR-Cas for Programmable DNA Data Archival and Retrieval: Engineering Biological Systems for Future Petabyte-Scale Storage",
@@ -232,6 +231,9 @@
         "Engineering self-regulating gene drive systems: biochemical safeties, ecological containment architectures, and ethical design principles for precise genetic interventions.",
         "The shift from NUMA to UMA: How Google's Jupiter network fabric is rewriting the assumptions of datacenter locality and memory access costs.",
         "Inside Meta's Project Aria: Reverse engineering the massive, real-time compute pipeline for AR glasses at planetary scale.",
-        "The physics of power: How hyperscalers are engineering on-site nuclear microreactors to bypass grid limitations for exascale AI clusters."
+        "The physics of power: How hyperscalers are engineering on-site nuclear microreactors to bypass grid limitations for exascale AI clusters.",
+        "Beyond RDMA: Exploring CXL and Gen-Z Fabric Topologies for Disaggregated Memory and Compute in Hyperscale AI",
+        "Zero-Trust Networking at Exabyte Scale: Engineering Microsegmentation and Policy Enforcement for Hyperscale Cloud Infrastructure",
+        "The Architecture of AI-Driven Protein Design: From AlphaFold to De Novo Functional Protein Synthesis"
     ]
 }
