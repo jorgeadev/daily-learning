@@ -100,7 +100,6 @@
         "The Unspoken Trade-offs of Multi-Region Active-Active Architectures: Beyond the 11 Nines",
         "Deconstructing the Data Mesh: Implementing Federated Computational Governance at Petabyte Scale",
         "Postmortem of a Cascading Failure: Analyzing the Thermodynamic Limits of Hyperscale Data Center Cooling",
-        "Engineering Global Consistency: Distributed Tracing and Observability for Eventual Consistency Models in Planet-Scale Databases.",
         "Beyond Natural Tropism: Engineering Synthetic Viral Vectors for Targeted Organ Delivery in Advanced Gene Therapies.",
         "The Engineering Challenges of Disaggregated Compute and Memory Architectures for Petabyte-Scale AI Model Training",
         "Advanced Viral Vector Design: Engineering Enhanced Tropism and Reduced Immunogenicity in Next-Generation Gene Therapies",
@@ -252,6 +251,9 @@
         "Next-Gen Gene Delivery: Engineering AAV Serotypes and Non-Viral Nanoparticle Encapsulation for Advanced Therapies",
         "Real-time Multi-tenant GPU Scheduling and Resource Isolation for Hyperscale AI Inference",
         "Implementing Globally Consistent, Sub-millisecond Latency Distributed Transactions Across Geo-Distributed Data Centers",
-        "Advanced AAV Capsid Directed Evolution for Precision In Vivo Gene Editing Delivery Systems"
+        "Advanced AAV Capsid Directed Evolution for Precision In Vivo Gene Editing Delivery Systems",
+        "The Role of Programmable Data Planes (P4) and SmartNICs in Accelerating Microservice Communication and Network Function Offloading at Hyperscale",
+        "CRISPR-Associated Transposons (CASTs): Leveraging RNA-Guided Integration Systems for Large-Scale Genomic Engineering Beyond Double-Strand Breaks",
+        "Quantum-Safe Cryptography at Scale: Architecting Post-Quantum Primitives for Hyperscale Distributed Systems and Supply Chain Security"
     ]
 }
