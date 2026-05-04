@@ -122,7 +122,6 @@
         "Postmortem Analysis of the Cascading Failure in a Multi-Region Serverless Platform During a Coordinated Cyber Attack",
         "Leveraging eBPF for dynamic network observability and intelligent traffic steering in hyperscale cloud environments.",
         "Synthetic biology's frontier: engineering novel viral capsids for enhanced gene therapy delivery and immunogenicity control.",
-        "The Unspoken Trade-offs of Global Active-Active Database Architectures at Petabyte Scale",
         "Dissecting the Hardware-Software Co-Design of Modern AI Hyperclusters: Beyond Just More GPUs",
         "Postmortem Analysis of the Cascading Failure in a Major CDN's Anycast Routing During a Global Sporting Event",
         "CXL-enabled computational storage: Architectural implications for extreme-scale data processing and resource disaggregation in cloud environments.",
@@ -254,6 +253,9 @@
         "Advanced AAV Capsid Directed Evolution for Precision In Vivo Gene Editing Delivery Systems",
         "The Role of Programmable Data Planes (P4) and SmartNICs in Accelerating Microservice Communication and Network Function Offloading at Hyperscale",
         "CRISPR-Associated Transposons (CASTs): Leveraging RNA-Guided Integration Systems for Large-Scale Genomic Engineering Beyond Double-Strand Breaks",
-        "Quantum-Safe Cryptography at Scale: Architecting Post-Quantum Primitives for Hyperscale Distributed Systems and Supply Chain Security"
+        "Quantum-Safe Cryptography at Scale: Architecting Post-Quantum Primitives for Hyperscale Distributed Systems and Supply Chain Security",
+        "Global Atomic Consensus: Engineering High-Throughput, Low-Latency Transactional Integrity Across Geo-Distributed Cloud Infrastructures",
+        "The Exabyte Enigma: Architecting Intelligent Tiering and Data Lineage Systems for AI Foundation Model Training Data Lakes",
+        "Synthetic Viromics: Designing Self-Assembling Nanoparticle-Virus Hybrids for Targeted Gene Delivery and Advanced Diagnostics"
     ]
 }
