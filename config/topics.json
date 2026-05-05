@@ -251,7 +251,6 @@
         "Advanced AAV Capsid Directed Evolution for Precision In Vivo Gene Editing Delivery Systems",
         "The Role of Programmable Data Planes (P4) and SmartNICs in Accelerating Microservice Communication and Network Function Offloading at Hyperscale",
         "CRISPR-Associated Transposons (CASTs): Leveraging RNA-Guided Integration Systems for Large-Scale Genomic Engineering Beyond Double-Strand Breaks",
-        "Quantum-Safe Cryptography at Scale: Architecting Post-Quantum Primitives for Hyperscale Distributed Systems and Supply Chain Security",
         "Global Atomic Consensus: Engineering High-Throughput, Low-Latency Transactional Integrity Across Geo-Distributed Cloud Infrastructures",
         "The Exabyte Enigma: Architecting Intelligent Tiering and Data Lineage Systems for AI Foundation Model Training Data Lakes",
         "Synthetic Viromics: Designing Self-Assembling Nanoparticle-Virus Hybrids for Targeted Gene Delivery and Advanced Diagnostics",
@@ -260,6 +259,9 @@
         "The design and incremental deployment of a hardware-backed memory safety isolation layer within Google's Borg scheduler",
         "The Latency Tax: Quantifying the Cost of Multi-Region Data Consistency in Global Infrastructure Deployments",
         "Inside the Erasure Coding War: How Meta and Google are Re-Architecting Petabyte-Scale Cold Storage Around Noise Injection",
-        "Finding the Needle in the Firehose: A Postmortem on the exabyte-level indexing failure that cascaded from a single BGP misconfiguration"
+        "Finding the Needle in the Firehose: A Postmortem on the exabyte-level indexing failure that cascaded from a single BGP misconfiguration",
+        "CXL 3.0 and the Future of Disaggregated Memory Architectures in Hyperscale Data Centers",
+        "The Distributed Systems Engineering Challenges Behind Training Trillion-Parameter AI Models",
+        "Leveraging Programmable CRISPR-Cas Systems for RNA-Targeting Diagnostics and Therapeutics"
     ]
 }
