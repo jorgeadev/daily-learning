@@ -41,7 +41,6 @@
         "A recent hype cycle on a major JavaScript meta-framework release: what new architectural patterns does it actually solve?",
         "The viral adoption of eBPF for networking and observability: what it means for the future of Linux kernels.",
         "An in-depth look at bun.js vs Node.js vs Deno: the hype, the benchmarks, and the architectural differences.",
-        "The design and implementation of hyperscale cloud provider's internal optical fabric for exabyte-scale data movement and ultra-low-latency distributed AI training.",
         "Decentralized consensus protocols for achieving strong consistency in a planetary-scale distributed ledger operating at millions of transactions per second.",
         "The interplay of programmable data planes and P4 with smart NICs for ultra-low-latency network function virtualization in hyperscale data centers.",
         "Engineering enhanced adeno-associated virus (AAV) vectors with synthetic capsids for neurotropic gene therapy delivery and evasion of pre-existing immunity.",
@@ -264,6 +263,9 @@
         "Leveraging Programmable CRISPR-Cas Systems for RNA-Targeting Diagnostics and Therapeutics",
         "The Hyperscale Interconnect Fabrics Powering Trillion-Parameter AI Model Training Clusters",
         "Designing Global Multi-Version Concurrency Control Mechanisms for Petabyte-Scale Real-Time Transactional Systems",
-        "Precision Delivery Vector Architectures for Programmable Epigenetic Modulation in In Vivo Gene Therapies"
+        "Precision Delivery Vector Architectures for Programmable Epigenetic Modulation in In Vivo Gene Therapies",
+        "The architectural evolution of large language model serving infrastructure: From monolithic deployments to adaptive distributed inference engines.",
+        "Implementing petabyte-scale real-time telemetry: Advanced distributed tracing, high-cardinality metrics, and continuous profiling in cloud-native environments.",
+        "Engineering global pathogen surveillance: Architecting privacy-preserving, real-time genomic sequencing and AI-driven anomaly detection networks."
     ]
 }
