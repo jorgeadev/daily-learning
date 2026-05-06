@@ -164,7 +164,6 @@
         "Achieving Near-Zero Latency: Distributed State Management Strategies for Globally Replicated Serverless Edge Workloads",
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
-        "eBPF's Role in Next-Gen Hyperscale Network Observability and Low-Latency Packet Processing for Cloud-Native Microservices",
         "CRISPR-Associated Transposons (CASTs) for Large-Scale Programmable DNA Integration in Eukaryotic Viral Vectors for Advanced Gene Therapies",
         "The Evolution of Disaggregated Storage Architectures in Hyperscale Data Centers: From NVMe-oF to CXL-Attached Memory Pools and Computational Storage",
         "Fine-grained Resource Allocation and Scheduling in Heterogeneous GPU Clusters for Foundation Model Training at Scale",
@@ -266,6 +265,9 @@
         "Precision Delivery Vector Architectures for Programmable Epigenetic Modulation in In Vivo Gene Therapies",
         "The architectural evolution of large language model serving infrastructure: From monolithic deployments to adaptive distributed inference engines.",
         "Implementing petabyte-scale real-time telemetry: Advanced distributed tracing, high-cardinality metrics, and continuous profiling in cloud-native environments.",
-        "Engineering global pathogen surveillance: Architecting privacy-preserving, real-time genomic sequencing and AI-driven anomaly detection networks."
+        "Engineering global pathogen surveillance: Architecting privacy-preserving, real-time genomic sequencing and AI-driven anomaly detection networks.",
+        "Scalable Inter-chip Communication Architectures for Trillion-Parameter AI Model Inference in Hyperscale Data Centers",
+        "Next-Generation Liquid Cooling and Heat Reuse Strategies for Exascale AI Superclusters",
+        "AI-Accelerated Rational Design of Novel Antiviral Therapeutics: From Protein Folding to High-Throughput Screening"
     ]
 }
