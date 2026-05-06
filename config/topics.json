@@ -125,7 +125,6 @@
         "Architecting AAV Capsids for Enhanced Tissue Tropism and Reduced Immunogenicity in Gene Therapy Delivery",
         "The architectural paradigms and challenges of serving multi-trillion parameter foundation models at global scale with single-digit millisecond latency.",
         "Deep dive into disaggregated optical-IP data center networks and their role in enabling extreme-scale AI/ML workloads, exploring RoCEv2, DPU/IPU integration, and P4 programmable switching.",
-        "The engineering principles and scaling pathways for CRISPR-Cas-based biosensors to deliver ultra-sensitive, multiplexed, and decentralized pathogen detection capabilities.",
         "Beyond Kubernetes: The Rise of MicroVM-Based Serverless Platforms at Hyperscale",
         "The Physics of Cooling: How Google's New Liquid Immersion Data Centers Achieve PUE < 1.05",
         "Defeating the CAP Theorem: A Deep Dive into Amazon's Multi-Region Active-Active Aurora Architecture for Global Low-Latency Writes",
@@ -270,6 +269,9 @@
         "AI-Accelerated Rational Design of Novel Antiviral Therapeutics: From Protein Folding to High-Throughput Screening",
         "The Hyperscale Architectures Driving AI Model Training: Beyond Distributed GPU Clusters to Photonic Interconnects",
         "Designing the 'Infinite' CDN: How Major Platforms Manage Real-Time Content Delivery in a Post-HTTP/3 World with QUIC-aware Edge Caching and Serverless Functions",
-        "CRISPR-Powered Epigenetic Editing for Precision Disease Therapy: Overcoming Off-Target Effects and Delivery Challenges at Scale"
+        "CRISPR-Powered Epigenetic Editing for Precision Disease Therapy: Overcoming Off-Target Effects and Delivery Challenges at Scale",
+        "The evolution of hyperscale data center networking: From Clos fabrics to P4-programmable ASICs and AI-driven traffic optimization.",
+        "Deep dive into serverless cold start mitigation strategies: Snapshotting, custom runtime environments, and container reuse at planetary scale.",
+        "Synthetic genomics and de novo genome design: Computational architectures for high-throughput gene synthesis, error correction, and biological circuit optimization."
     ]
 }
