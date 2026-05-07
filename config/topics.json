@@ -169,7 +169,6 @@
         "The Unseen Architecture: How Hyperscalers Engineer Quantum-Proof Cryptography Key Distribution Systems",
         "Beyond Fat Tree: Exploring the Next Generation of Disaggregated Network Topologies for AI/ML Data Centers",
         "Genomic Transformers: Scaling Large Language Models for De Novo Protein Design and Synthetic Biology",
-        "The Architecture of Disaggregated Memory and Compute in Hyperscale Data Centers: RDMA over Converged Ethernet (RoCEv2) for Near-Coprocessor Performance",
         "Achieving Strong Consistency and Low Latency in Globally Distributed Databases: A Deep Dive into Atomic Clock Synchronization and Multi-Version Concurrency Control (MVCC) at Scale",
         "Programmable Viral Vectors for In Vivo Gene Editing: Advances in Directed Evolution of Adeno-Associated Viruses (AAVs) and CRISPR-Cas Delivery for Precision Therapies",
         "Optimizing State Machine Replication for Trillion-Event Streams: A Deep Dive into Distributed Consensus Protocols Beyond Raft and Paxos at Cloud Scale",
@@ -274,6 +273,9 @@
         "Synthetic genomics and de novo genome design: Computational architectures for high-throughput gene synthesis, error correction, and biological circuit optimization.",
         "The invisible backbone: Ultra-low latency optical mesh networks powering hyperscale data center interconnectivity and cross-region replication.",
         "Beyond consensus: Architecting a strongly consistent, globally distributed ledger with sharding, multi-version concurrency control, and zero-downtime schema migrations.",
-        "CRISPR-Cas9 therapeutic delivery optimization: Engineering adeno-associated virus (AAV) vectors for enhanced tropism, specificity, and reduced immunogenicity at scale."
+        "CRISPR-Cas9 therapeutic delivery optimization: Engineering adeno-associated virus (AAV) vectors for enhanced tropism, specificity, and reduced immunogenicity at scale.",
+        "Cloud-Native Bare Metal Provisioning: Orchestration, Isolation, and Performance at Hyperscale",
+        "Beyond Replication: Advanced Erasure Coding and Strong Consistency in Zettabyte-Scale Distributed Object Storage",
+        "Precision Gene Modulation: Architecting Programmable RNA Therapeutics for In Vivo Cell-Type Specificity"
     ]
 }
