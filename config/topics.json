@@ -84,7 +84,6 @@
         "The Engineering Challenges of Maintaining Strong Global Consistency in Hyperscale Distributed Transactional Databases",
         "Computational Design and Large-Scale Synthesis Pipelines for Novel Oncolytic Virotherapy Agents",
         "Next-Gen Optical Networks: Leveraging Coherent Optics and AI-Driven Wavelength Routing for Exascale Cloud Interconnects",
-        "Beyond the Monolith: A Technical Deep Dive into ByteDance's Multi-Cloud Stateful Service Orchestration at Petabyte Scale",
         "The Physics of Viral Propagation: Engineering the Sub-Second Edge Caching System Behind a Billion-View TikTok Trend",
         "Deconstructing Meta's Threads: The Real-Time Fanout and State Synchronization Architecture at Instagram Scale",
         "Beyond Sharding: Google's Next-Gen Spanner and the Physics of Globally Consistent, Low-Latency Databases",
@@ -272,6 +271,9 @@
         "CRISPR-Powered Epigenetic Editing for Precision Disease Therapy: Overcoming Off-Target Effects and Delivery Challenges at Scale",
         "The evolution of hyperscale data center networking: From Clos fabrics to P4-programmable ASICs and AI-driven traffic optimization.",
         "Deep dive into serverless cold start mitigation strategies: Snapshotting, custom runtime environments, and container reuse at planetary scale.",
-        "Synthetic genomics and de novo genome design: Computational architectures for high-throughput gene synthesis, error correction, and biological circuit optimization."
+        "Synthetic genomics and de novo genome design: Computational architectures for high-throughput gene synthesis, error correction, and biological circuit optimization.",
+        "The invisible backbone: Ultra-low latency optical mesh networks powering hyperscale data center interconnectivity and cross-region replication.",
+        "Beyond consensus: Architecting a strongly consistent, globally distributed ledger with sharding, multi-version concurrency control, and zero-downtime schema migrations.",
+        "CRISPR-Cas9 therapeutic delivery optimization: Engineering adeno-associated virus (AAV) vectors for enhanced tropism, specificity, and reduced immunogenicity at scale."
     ]
 }
