@@ -259,7 +259,6 @@
         "Designing Global Multi-Version Concurrency Control Mechanisms for Petabyte-Scale Real-Time Transactional Systems",
         "Precision Delivery Vector Architectures for Programmable Epigenetic Modulation in In Vivo Gene Therapies",
         "The architectural evolution of large language model serving infrastructure: From monolithic deployments to adaptive distributed inference engines.",
-        "Implementing petabyte-scale real-time telemetry: Advanced distributed tracing, high-cardinality metrics, and continuous profiling in cloud-native environments.",
         "Engineering global pathogen surveillance: Architecting privacy-preserving, real-time genomic sequencing and AI-driven anomaly detection networks.",
         "Scalable Inter-chip Communication Architectures for Trillion-Parameter AI Model Inference in Hyperscale Data Centers",
         "Next-Generation Liquid Cooling and Heat Reuse Strategies for Exascale AI Superclusters",
@@ -278,6 +277,9 @@
         "Precision Gene Modulation: Architecting Programmable RNA Therapeutics for In Vivo Cell-Type Specificity",
         "The architecture of disaggregated memory pools and CXL-based resource orchestration in next-gen hyperscale compute clusters.",
         "Achieving ultra-low latency event streaming at exabyte scale: Engineering custom kernel bypass and network interface co-processing for real-time analytics.",
-        "Beyond CRISPR-Cas9: Leveraging engineered bacteriophages as targeted antibacterial agents for overcoming antibiotic resistance."
+        "Beyond CRISPR-Cas9: Leveraging engineered bacteriophages as targeted antibacterial agents for overcoming antibiotic resistance.",
+        "Dissecting the CXL 3.0 Coherence Protocol: How Fabric-Attached Memory Pools Break the Server Memory Wall at Exascale",
+        "The Undersea Cable as a Distributed Compute Node: Analyzing Subsea Fiber-Optic Infrastructure for Latency-Optimized Global State Machine Replication",
+        "Behind the Bypass: How AWS's SRD and NVIDIA's Spectrum-4 Switch-Level Retransmission Redefine Lossless Ethernet for Hyperscale AI Fabrics"
     ]
 }
