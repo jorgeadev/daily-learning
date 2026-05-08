@@ -48,5 +48,11 @@
     },
     "dependencies": {
         "@google/generative-ai": "0.24.1"
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "esbuild",
+            "sharp"
+        ]
     }
 }
