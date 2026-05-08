@@ -145,7 +145,6 @@
         "Disaggregated optical network fabrics and P4-programmable data planes: Architecting the next-generation interconnect for planetary-scale data centers.",
         "Deep dive into Firecracker microVMs and snapshotting techniques for mitigating serverless cold starts at hyperscale.",
         "Achieving Global Strong Consistency: A technical analysis of TrueTime and Hybrid Logical Clocks in planet-scale distributed databases.",
-        "Beyond CRISPR-Cas9: A technical review of prime editing, base editing, and their impact on advanced therapeutic viral vector design.",
         "Decoding the Interconnects: Memory Bandwidth Bottlenecks and Custom Fabric Solutions for Trillion-Parameter LLM Inference",
         "From PUE to PUD: Advancements in Disaggregated Computing and Direct Liquid Cooling for Hyperscale Infrastructure",
         "The Phage-Storage Paradigm: Engineering Bacteriophage Virions for Petabyte-Scale Biological Data Storage and Retrieval Systems",
@@ -276,6 +275,9 @@
         "CRISPR-Cas9 therapeutic delivery optimization: Engineering adeno-associated virus (AAV) vectors for enhanced tropism, specificity, and reduced immunogenicity at scale.",
         "Cloud-Native Bare Metal Provisioning: Orchestration, Isolation, and Performance at Hyperscale",
         "Beyond Replication: Advanced Erasure Coding and Strong Consistency in Zettabyte-Scale Distributed Object Storage",
-        "Precision Gene Modulation: Architecting Programmable RNA Therapeutics for In Vivo Cell-Type Specificity"
+        "Precision Gene Modulation: Architecting Programmable RNA Therapeutics for In Vivo Cell-Type Specificity",
+        "The architecture of disaggregated memory pools and CXL-based resource orchestration in next-gen hyperscale compute clusters.",
+        "Achieving ultra-low latency event streaming at exabyte scale: Engineering custom kernel bypass and network interface co-processing for real-time analytics.",
+        "Beyond CRISPR-Cas9: Leveraging engineered bacteriophages as targeted antibacterial agents for overcoming antibiotic resistance."
     ]
 }
