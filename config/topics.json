@@ -144,7 +144,6 @@
         "The architectural intricacies of hyper-scale distributed consensus protocols powering zettabyte-scale globally replicated data stores.",
         "Disaggregated optical network fabrics and P4-programmable data planes: Architecting the next-generation interconnect for planetary-scale data centers.",
         "Deep dive into Firecracker microVMs and snapshotting techniques for mitigating serverless cold starts at hyperscale.",
-        "Achieving Global Strong Consistency: A technical analysis of TrueTime and Hybrid Logical Clocks in planet-scale distributed databases.",
         "Decoding the Interconnects: Memory Bandwidth Bottlenecks and Custom Fabric Solutions for Trillion-Parameter LLM Inference",
         "From PUE to PUD: Advancements in Disaggregated Computing and Direct Liquid Cooling for Hyperscale Infrastructure",
         "The Phage-Storage Paradigm: Engineering Bacteriophage Virions for Petabyte-Scale Biological Data Storage and Retrieval Systems",
@@ -282,6 +281,9 @@
         "Behind the Bypass: How AWS's SRD and NVIDIA's Spectrum-4 Switch-Level Retransmission Redefine Lossless Ethernet for Hyperscale AI Fabrics",
         "The Role of Custom Network Fabrics and SmartNICs in Accelerating Hyperscale AI Model Training and Inference",
         "Achieving Global Transactional Consistency with Hybrid Consensus Protocols: A Deep Dive into Geo-Distributed Database Architectures",
-        "CRISPR-Guided Phage Engineering: Repurposing Viral Defense Systems for Targeted Antimicrobial Resistance Busting"
+        "CRISPR-Guided Phage Engineering: Repurposing Viral Defense Systems for Targeted Antimicrobial Resistance Busting",
+        "Architecting Globally Consistent OLTP: Navigating Cross-Region Linearizability vs. Eventual Consistency in Hyperscale Databases.",
+        "Beyond Bare Metal: How Programmable Data Planes and SmartNICs Revolutionize Hyperscale AI/ML Network Performance.",
+        "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research."
     ]
 }
