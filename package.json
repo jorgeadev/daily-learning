@@ -1,6 +1,7 @@
 {
     "name": "the-architects-blueprint",
     "version": "1.0.0",
+    "packageManager": "pnpm@10.33.3",
     "engines": {
         "node": ">=24.0.0"
     },
