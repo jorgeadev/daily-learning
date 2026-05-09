@@ -282,8 +282,10 @@
         "The Role of Custom Network Fabrics and SmartNICs in Accelerating Hyperscale AI Model Training and Inference",
         "Achieving Global Transactional Consistency with Hybrid Consensus Protocols: A Deep Dive into Geo-Distributed Database Architectures",
         "CRISPR-Guided Phage Engineering: Repurposing Viral Defense Systems for Targeted Antimicrobial Resistance Busting",
-        "Architecting Globally Consistent OLTP: Navigating Cross-Region Linearizability vs. Eventual Consistency in Hyperscale Databases.",
         "Beyond Bare Metal: How Programmable Data Planes and SmartNICs Revolutionize Hyperscale AI/ML Network Performance.",
-        "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research."
+        "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research.",
+        "The Rise of CXL: Architecting Disaggregated Memory and Compute for Hyperscale Data Centers",
+        "Implementing Global Consistency with Sub-Millisecond Latency: The Next Frontier in Geo-Distributed Database Sharding",
+        "Engineering the Exabyte Challenge: Architectures for DNA-Based Data Storage and Retrieval Systems"
     ]
 }
