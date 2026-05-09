@@ -155,7 +155,6 @@
         "Architecting Petabyte-Scale Data Storage Solutions Using Enzymatically Synthesized DNA Polymers and Advanced Sequencing Readout Techniques",
         "Beyond gRPC: Crafting Ultra-Low Latency, High-Throughput Communication Primitives for Inter-Service Mesh Data Planes in Hyperscale Environments",
         "CRISPR-Cas as a Programmable Antiviral: Unpacking the Mechanisms and Challenges of Engineering Broad-Spectrum Viral Resistance into Mammalian Cells",
-        "The Architectural Shift: Disaggregating Network Functions and Optical Switching in Hyperscale Data Centers",
         "Achieving Near-Zero Latency: Distributed State Management Strategies for Globally Replicated Serverless Edge Workloads",
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
@@ -286,6 +285,9 @@
         "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research.",
         "The Rise of CXL: Architecting Disaggregated Memory and Compute for Hyperscale Data Centers",
         "Implementing Global Consistency with Sub-Millisecond Latency: The Next Frontier in Geo-Distributed Database Sharding",
-        "Engineering the Exabyte Challenge: Architectures for DNA-Based Data Storage and Retrieval Systems"
+        "Engineering the Exabyte Challenge: Architectures for DNA-Based Data Storage and Retrieval Systems",
+        "The Architectural Shift: Disaggregated Memory and Compute in Hyperscale Data Centers for AI Workloads.",
+        "Beyond BGP: How AI-Driven Traffic Engineering Optimizes Global Interconnects for Cloud Providers.",
+        "CRISPR-Based Antivirals: Engineering Programmable Nucleic Acid Scavengers for Broad-Spectrum Viral Suppression."
     ]
 }
