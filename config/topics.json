@@ -211,7 +211,6 @@
         "Zero-Trust Networking at Exabyte Scale: Engineering Microsegmentation and Policy Enforcement for Hyperscale Cloud Infrastructure",
         "The Architecture of AI-Driven Protein Design: From AlphaFold to De Novo Functional Protein Synthesis",
         "Real-Time Inference at Scale: Engineering AI Model Serving Infrastructure for Billions of Daily Queries",
-        "Beyond Clos: Architecting Disaggregated and Programmable Data Center Networks for Hyperscale AI Workloads",
         "Petabyte-Scale Genomics: Building Secure and Performant Pipelines for Population-Level Biomedical Data",
         "Beyond the Rack: Deep Dive into Liquid Cooling Architectures and Two-Phase Immersion for Hyperscale AI Compute Clusters",
         "The Conundrum of Strong Eventual Consistency: Architecting Distributed Transactional Systems for Global Financial Ledgers with Hybrid Logical Clocks",
@@ -290,6 +289,9 @@
         "CRISPR-Based Antivirals: Engineering Programmable Nucleic Acid Scavengers for Broad-Spectrum Viral Suppression.",
         "Disaggregated Compute and Memory: The Future of Resource Utilization in Hyperscale Data Centers",
         "Hardware-Accelerated Consensus Protocols: Reducing Latency and Increasing Throughput in Global Distributed Transaction Systems",
-        "Engineering Self-Amplifying RNA Vectors for Next-Generation Pandemic Preparedness and Broad-Spectrum Immunotherapy"
+        "Engineering Self-Amplifying RNA Vectors for Next-Generation Pandemic Preparedness and Broad-Spectrum Immunotherapy",
+        "The architectural evolution of AI model serving platforms from batch to real-time inference at exabyte scale.",
+        "Leveraging eBPF for deep kernel-level observability and anomaly detection in cloud-native microservice meshes.",
+        "The role of advanced graph neural networks and cloud-scale computation in accelerating novel viral vector design for gene therapy."
     ]
 }
