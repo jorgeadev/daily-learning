@@ -70,7 +70,6 @@
         "Evolving Hyperscale Networks: The Interplay of Software-Defined Networking and BGP-EVPN for Inter-Datacenter Connectivity.",
         "Engineering Next-Gen mRNA Vaccines: Advancements in Lipid Nanoparticle Delivery Systems and Immunostimulatory Design.",
         "CXL 3.0 and Disaggregated Memory Pooling: Architecting the Next Generation of Hyperscale Data Center Resource Utilization",
-        "From Trillions of Events to Actionable Insights: Building Hyperscale AIOps Platforms for Proactive Anomaly Detection in Distributed Systems",
         "Optimizing Cold Start Latency in Serverless Edge Functions: A Deep Dive into MicroVM Snapshotting and Kernel-Level Virtualization Techniques",
         "Leveraging CRISPR-Cas for Programmable DNA Data Archival and Retrieval: Engineering Biological Systems for Future Petabyte-Scale Storage",
         "Optimizing Serverless Cold Starts at Trillions of Invocations: Deep Dive into Hyperscale Resource Scheduling",
@@ -296,6 +295,9 @@
         "Beyond Kubernetes: Advanced Resource Scheduling Strategies for Maximizing GPU Utilization in Exascale AI/ML Training Clusters",
         "The architectural evolution of real-time serverless function orchestration across heterogeneous cloud regions for low-latency edge AI inference.",
         "Implementing provably fault-tolerant distributed transaction systems using CRDTs and TLA+ for global-scale e-commerce platforms.",
-        "The emerging architectural patterns for synthetic viral vector design optimization using reinforcement learning for in-vivo gene therapy delivery."
+        "The emerging architectural patterns for synthetic viral vector design optimization using reinforcement learning for in-vivo gene therapy delivery.",
+        "The architectural blueprint for integrating Post-Quantum Cryptography into existing hyperscale cloud infrastructure, detailing performance implications and migration strategies.",
+        "Architecting next-generation serverless platforms for real-time, low-latency AI inference at the extreme edge, focusing on cold start mitigation and state synchronization.",
+        "Beyond CRISPR: A technical deep dive into engineered bacteriophage platforms for programmable microbiome modulation and precision antimicrobial resistance targeting."
     ]
 }
