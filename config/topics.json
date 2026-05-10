@@ -227,7 +227,6 @@
         "The architectural evolution of large language model serving: from static endpoints to dynamic, multi-tenant inference graphs.",
         "Hyperscale data center thermal management: A deep dive into advanced liquid cooling and immersion strategies for petascale AI clusters.",
         "DNA as a data center: Engineering challenges and potential of high-density genomic information storage and retrieval.",
-        "Hyperscaler Innovations Beyond Kubernetes: Custom Orchestration and Resource Management for Extreme Scale",
         "Architecting Trillion-Parameter AI: The Role of Optical Interconnects and Network Fabric Topologies",
         "Next-Gen Gene Delivery: Engineering AAV Serotypes and Non-Viral Nanoparticle Encapsulation for Advanced Therapies",
         "Real-time Multi-tenant GPU Scheduling and Resource Isolation for Hyperscale AI Inference",
@@ -298,6 +297,9 @@
         "The emerging architectural patterns for synthetic viral vector design optimization using reinforcement learning for in-vivo gene therapy delivery.",
         "The architectural blueprint for integrating Post-Quantum Cryptography into existing hyperscale cloud infrastructure, detailing performance implications and migration strategies.",
         "Architecting next-generation serverless platforms for real-time, low-latency AI inference at the extreme edge, focusing on cold start mitigation and state synchronization.",
-        "Beyond CRISPR: A technical deep dive into engineered bacteriophage platforms for programmable microbiome modulation and precision antimicrobial resistance targeting."
+        "Beyond CRISPR: A technical deep dive into engineered bacteriophage platforms for programmable microbiome modulation and precision antimicrobial resistance targeting.",
+        "The architectural implications of adopting memory-semantic network fabrics (e.g., CXL) for ultra-low-latency AI model serving at scale.",
+        "Deep learning-guided de novo design of synthetic viral vectors for ultra-specific in vivo cell targeting and gene therapy delivery.",
+        "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI."
     ]
 }
