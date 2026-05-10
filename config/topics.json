@@ -30,7 +30,6 @@
         "Telegram’s proprietary MTProto protocol and their incredibly lean server architecture.",
         "Riot Games’ League of Legends global matchmaking and low-latency game server infrastructure.",
         "Fastly’s Edge CDN architecture and the Varnish caching engine deep-dive.",
-        "Datadog’s ingestion pipeline: processing trillions of monitoring metrics and logs seamlessly.",
         "Roblox’s user-generated content infrastructure: serving 3D assets to millions of active concurrent players globally.",
         "Grab's super-app architecture: handling ride-hailing, food delivery, and payments across Southeast Asia.",
         "NASA's JPL cloud computing architecture: how they managed the telemetry data pipeline for the Mars Rover.",
@@ -292,6 +291,9 @@
         "Engineering Self-Amplifying RNA Vectors for Next-Generation Pandemic Preparedness and Broad-Spectrum Immunotherapy",
         "The architectural evolution of AI model serving platforms from batch to real-time inference at exabyte scale.",
         "Leveraging eBPF for deep kernel-level observability and anomaly detection in cloud-native microservice meshes.",
-        "The role of advanced graph neural networks and cloud-scale computation in accelerating novel viral vector design for gene therapy."
+        "The role of advanced graph neural networks and cloud-scale computation in accelerating novel viral vector design for gene therapy.",
+        "The Architectural Shift in Hyperscale Data Center Interconnects: From DWDM to Photonic Integrated Circuits and Software-Defined Fabrics",
+        "Engineering Precision: Overcoming Delivery and Off-Target Hurdles in *In Vivo* CRISPR-Based Gene Therapies with Novel Viral Capsids and RNA Guides",
+        "Beyond Kubernetes: Advanced Resource Scheduling Strategies for Maximizing GPU Utilization in Exascale AI/ML Training Clusters"
     ]
 }
