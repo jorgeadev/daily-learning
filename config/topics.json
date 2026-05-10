@@ -157,7 +157,6 @@
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
         "CRISPR-Associated Transposons (CASTs) for Large-Scale Programmable DNA Integration in Eukaryotic Viral Vectors for Advanced Gene Therapies",
-        "The Evolution of Disaggregated Storage Architectures in Hyperscale Data Centers: From NVMe-oF to CXL-Attached Memory Pools and Computational Storage",
         "Fine-grained Resource Allocation and Scheduling in Heterogeneous GPU Clusters for Foundation Model Training at Scale",
         "AI-Driven De Novo Design of Synthetic Viral Capsids for Next-Generation Targeted Gene Therapy Delivery",
         "Architecting for Observability at Zettabyte Scale: The Challenges of Real-time Telemetry Processing and Anomaly Detection in Hyperscale Cloud Environments",
@@ -294,6 +293,9 @@
         "The role of advanced graph neural networks and cloud-scale computation in accelerating novel viral vector design for gene therapy.",
         "The Architectural Shift in Hyperscale Data Center Interconnects: From DWDM to Photonic Integrated Circuits and Software-Defined Fabrics",
         "Engineering Precision: Overcoming Delivery and Off-Target Hurdles in *In Vivo* CRISPR-Based Gene Therapies with Novel Viral Capsids and RNA Guides",
-        "Beyond Kubernetes: Advanced Resource Scheduling Strategies for Maximizing GPU Utilization in Exascale AI/ML Training Clusters"
+        "Beyond Kubernetes: Advanced Resource Scheduling Strategies for Maximizing GPU Utilization in Exascale AI/ML Training Clusters",
+        "The architectural evolution of real-time serverless function orchestration across heterogeneous cloud regions for low-latency edge AI inference.",
+        "Implementing provably fault-tolerant distributed transaction systems using CRDTs and TLA+ for global-scale e-commerce platforms.",
+        "The emerging architectural patterns for synthetic viral vector design optimization using reinforcement learning for in-vivo gene therapy delivery."
     ]
 }
