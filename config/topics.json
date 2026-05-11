@@ -218,7 +218,6 @@
         "The Network Architecture Evolution Driving Multi-Trillion Parameter AI Model Training: Beyond Clos Topologies",
         "Programmable Genetic Circuits: Designing and Deploying CRISPR-Cas Systems for Advanced Cellular Diagnostics and Therapeutics",
         "Optimizing Inferencing Latency for Trillion-Parameter AI Models in Geo-Distributed Data Centers",
-        "The Rise of Programmable Data Plane Networks: Overcoming Bandwidth Bottlenecks for Exascale AI Clusters",
         "Advanced Lipid Nanoparticle Design for Targeted mRNA Delivery in Next-Generation Therapeutic Vaccines",
         "Hardware-Accelerated Zero-Trust Networking for Intra-Datacenter Microservices at Hyperscale",
         "Beyond Paxos and Raft: Exploring Quorum-Less Distributed State Management for Planetary-Scale Edge Compute",
@@ -304,6 +303,9 @@
         "Engineering Phage-Based Systems for Scalable Precision Microbiome Editing and Therapeutic Delivery",
         "Architecting Exabyte-Scale Real-time Stream Processing for Global User Engagement Platforms",
         "The Deep Technical Challenges of Deploying Custom AI Accelerators Across Hyperscale Edge Networks",
-        "Beyond CRISPR: Engineering Next-Generation Viral Vectors for Scalable In Vivo Gene Delivery Systems"
+        "Beyond CRISPR: Engineering Next-Generation Viral Vectors for Scalable In Vivo Gene Delivery Systems",
+        "Deep dive into the architectural challenges of achieving strong consistency across globally distributed, petabyte-scale databases.",
+        "The architectural evolution of hyperscale AI inference serving: From dedicated hardware to serverless, elastic GPU functions.",
+        "Advances in engineering novel AAV capsids for precise tissue targeting and reduced immunogenicity in next-gen gene therapies."
     ]
 }
