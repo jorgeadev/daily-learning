@@ -163,7 +163,6 @@
         "Beyond Fat Tree: Exploring the Next Generation of Disaggregated Network Topologies for AI/ML Data Centers",
         "Genomic Transformers: Scaling Large Language Models for De Novo Protein Design and Synthetic Biology",
         "Achieving Strong Consistency and Low Latency in Globally Distributed Databases: A Deep Dive into Atomic Clock Synchronization and Multi-Version Concurrency Control (MVCC) at Scale",
-        "Programmable Viral Vectors for In Vivo Gene Editing: Advances in Directed Evolution of Adeno-Associated Viruses (AAVs) and CRISPR-Cas Delivery for Precision Therapies",
         "Optimizing State Machine Replication for Trillion-Event Streams: A Deep Dive into Distributed Consensus Protocols Beyond Raft and Paxos at Cloud Scale",
         "The Invisible Fabric: How Programmable Hardware and Custom ASICs are Revolutionizing Hyperscale Data Center Network Topologies and Packet Processing",
         "Synthetic Virology: Engineering Novel Bacteriophage Systems for Programmable Microbiome Modulation and Targeted Drug Delivery at Scale",
@@ -302,6 +301,9 @@
         "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI.",
         "Architecting Global Transactional Consistency: A Deep Dive into Hyperscale Distributed Database Consensus Mechanisms",
         "The Rise of Programmable Networks: How DPUs are Reshaping Hyperscale Cloud Infrastructure for Next-Gen Workloads",
-        "Engineering Phage-Based Systems for Scalable Precision Microbiome Editing and Therapeutic Delivery"
+        "Engineering Phage-Based Systems for Scalable Precision Microbiome Editing and Therapeutic Delivery",
+        "Architecting Exabyte-Scale Real-time Stream Processing for Global User Engagement Platforms",
+        "The Deep Technical Challenges of Deploying Custom AI Accelerators Across Hyperscale Edge Networks",
+        "Beyond CRISPR: Engineering Next-Generation Viral Vectors for Scalable In Vivo Gene Delivery Systems"
     ]
 }
