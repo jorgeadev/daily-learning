@@ -291,7 +291,6 @@
         "The role of advanced graph neural networks and cloud-scale computation in accelerating novel viral vector design for gene therapy.",
         "The Architectural Shift in Hyperscale Data Center Interconnects: From DWDM to Photonic Integrated Circuits and Software-Defined Fabrics",
         "Engineering Precision: Overcoming Delivery and Off-Target Hurdles in *In Vivo* CRISPR-Based Gene Therapies with Novel Viral Capsids and RNA Guides",
-        "Beyond Kubernetes: Advanced Resource Scheduling Strategies for Maximizing GPU Utilization in Exascale AI/ML Training Clusters",
         "The architectural evolution of real-time serverless function orchestration across heterogeneous cloud regions for low-latency edge AI inference.",
         "Implementing provably fault-tolerant distributed transaction systems using CRDTs and TLA+ for global-scale e-commerce platforms.",
         "The emerging architectural patterns for synthetic viral vector design optimization using reinforcement learning for in-vivo gene therapy delivery.",
@@ -300,6 +299,9 @@
         "Beyond CRISPR: A technical deep dive into engineered bacteriophage platforms for programmable microbiome modulation and precision antimicrobial resistance targeting.",
         "The architectural implications of adopting memory-semantic network fabrics (e.g., CXL) for ultra-low-latency AI model serving at scale.",
         "Deep learning-guided de novo design of synthetic viral vectors for ultra-specific in vivo cell targeting and gene therapy delivery.",
-        "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI."
+        "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI.",
+        "Architecting Global Transactional Consistency: A Deep Dive into Hyperscale Distributed Database Consensus Mechanisms",
+        "The Rise of Programmable Networks: How DPUs are Reshaping Hyperscale Cloud Infrastructure for Next-Gen Workloads",
+        "Engineering Phage-Based Systems for Scalable Precision Microbiome Editing and Therapeutic Delivery"
     ]
 }
