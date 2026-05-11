@@ -106,7 +106,6 @@
         "Beyond the Shard: Google's Next-Gen Spanner and the Physics-Limits of Globally Consistent, Planet-Scale Databases",
         "The Unseen Cost of Virality: A Technical Post-Mortem of the AI Image Generator Stampede and Its Cascading Cloud Failures",
         "Global distributed consensus at scale: Architecting strongly consistent multi-region transactional systems for petabyte-scale data.",
-        "Custom silicon and AI infrastructure: A deep dive into the hardware-software co-design for hyperscale deep learning accelerators (e.g., TPUs, Inferentia).",
         "Deconstructing the Global Request Router: How Meta's Edge Network Handles 10 Trillion Queries Per Day",
         "Beyond Kubernetes: The Unconventional Orchestration Systems Powering Hyperscale AI Training Clusters",
         "Postmortem Analysis of the 2024 Multi-Cloud DNS Cascade: Engineering Lessons from a Global Resolution Failure",
@@ -306,6 +305,9 @@
         "Beyond CRISPR: Engineering Next-Generation Viral Vectors for Scalable In Vivo Gene Delivery Systems",
         "Deep dive into the architectural challenges of achieving strong consistency across globally distributed, petabyte-scale databases.",
         "The architectural evolution of hyperscale AI inference serving: From dedicated hardware to serverless, elastic GPU functions.",
-        "Advances in engineering novel AAV capsids for precise tissue targeting and reduced immunogenicity in next-gen gene therapies."
+        "Advances in engineering novel AAV capsids for precise tissue targeting and reduced immunogenicity in next-gen gene therapies.",
+        "Beyond Kubernetes: The Next Frontier in Global-Scale Resource Scheduling and Job Migration for Heterogeneous Workloads",
+        "Engineering Oncolytic Adenoviruses for Enhanced Tumor Selectivity and Immunogenicity in Next-Gen Cancer Therapies",
+        "The Architecture of Hyperscale Vector Databases for Billion-Scale Embeddings and Real-time Semantic Search"
     ]
 }
