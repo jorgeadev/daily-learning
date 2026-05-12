@@ -256,7 +256,6 @@
         "Deep dive into serverless cold start mitigation strategies: Snapshotting, custom runtime environments, and container reuse at planetary scale.",
         "Synthetic genomics and de novo genome design: Computational architectures for high-throughput gene synthesis, error correction, and biological circuit optimization.",
         "The invisible backbone: Ultra-low latency optical mesh networks powering hyperscale data center interconnectivity and cross-region replication.",
-        "Beyond consensus: Architecting a strongly consistent, globally distributed ledger with sharding, multi-version concurrency control, and zero-downtime schema migrations.",
         "CRISPR-Cas9 therapeutic delivery optimization: Engineering adeno-associated virus (AAV) vectors for enhanced tropism, specificity, and reduced immunogenicity at scale.",
         "Cloud-Native Bare Metal Provisioning: Orchestration, Isolation, and Performance at Hyperscale",
         "Beyond Replication: Advanced Erasure Coding and Strong Consistency in Zettabyte-Scale Distributed Object Storage",
@@ -312,6 +311,9 @@
         "Beyond Linear mRNA: Engineering Self-Amplifying and Circular RNA for Next-Gen Viral and Therapeutic Applications",
         "Dismantling the Billion-Node Graph: How Meta Re-architected Tao for Sub-Millisecond Social Queries on a Single Cluster",
         "The Hidden Complexity of Global Backbone Tuning: Analyzing Netflix's Open Connect CDN Micro-Partitioning for 4K Stutter-Free Streaming",
-        "How Google Used CXL Memory Tiering to Throttle Hotspots in Borg: A Deep Dive into Heterogeneous Resource Scheduling at Planetary Scale"
+        "How Google Used CXL Memory Tiering to Throttle Hotspots in Borg: A Deep Dive into Heterogeneous Resource Scheduling at Planetary Scale",
+        "The unseen architecture: How specialized accelerators and distributed inference engines drive generative AI models at global scale.",
+        "Beyond the cloud: Architecting global-scale serverless functions for ultra-low latency edge compute environments.",
+        "Engineering the invisible: Leveraging deep learning for *de novo* design and optimization of synthetic viral capsids for drug delivery."
     ]
 }
