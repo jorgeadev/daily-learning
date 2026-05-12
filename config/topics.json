@@ -151,7 +151,6 @@
         "Architecting Petabyte-Scale Data Storage Solutions Using Enzymatically Synthesized DNA Polymers and Advanced Sequencing Readout Techniques",
         "Beyond gRPC: Crafting Ultra-Low Latency, High-Throughput Communication Primitives for Inter-Service Mesh Data Planes in Hyperscale Environments",
         "CRISPR-Cas as a Programmable Antiviral: Unpacking the Mechanisms and Challenges of Engineering Broad-Spectrum Viral Resistance into Mammalian Cells",
-        "Achieving Near-Zero Latency: Distributed State Management Strategies for Globally Replicated Serverless Edge Workloads",
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
         "CRISPR-Associated Transposons (CASTs) for Large-Scale Programmable DNA Integration in Eukaryotic Viral Vectors for Advanced Gene Therapies",
@@ -314,6 +313,9 @@
         "How Google Used CXL Memory Tiering to Throttle Hotspots in Borg: A Deep Dive into Heterogeneous Resource Scheduling at Planetary Scale",
         "The unseen architecture: How specialized accelerators and distributed inference engines drive generative AI models at global scale.",
         "Beyond the cloud: Architecting global-scale serverless functions for ultra-low latency edge compute environments.",
-        "Engineering the invisible: Leveraging deep learning for *de novo* design and optimization of synthetic viral capsids for drug delivery."
+        "Engineering the invisible: Leveraging deep learning for *de novo* design and optimization of synthetic viral capsids for drug delivery.",
+        "The algorithmic nexus: How hyperscale cloud providers are leveraging reinforcement learning for real-time, global energy grid optimization and carbon-aware workload placement.",
+        "Stateless by design, stateful by necessity: Architecting consistent, low-latency state management for serverless platforms handling exabyte-scale data streams.",
+        "Programmable phage engineering: Overcoming therapeutic resistance with AI-driven design of bespoke bacteriophage cocktails for multi-drug resistant infections."
     ]
 }
