@@ -198,7 +198,6 @@
         "Designing Resilient Multi-Region Active-Active Architectures for Zero RTO/RPO Cloud Services",
         "The Algorithmic Engineering Behind Hyper-Personalized Recommendation Engines Driving Viral Content Adoption",
         "The architectural patterns and custom silicon optimizations enabling exascale AI model training and inference for foundational LLMs.",
-        "Deconstructing the hyperscale serverless runtime: micro-VM orchestration, cold-start mitigation, and secure multi-tenancy across millions of concurrent invocations.",
         "Engineering self-regulating gene drive systems: biochemical safeties, ecological containment architectures, and ethical design principles for precise genetic interventions.",
         "The shift from NUMA to UMA: How Google's Jupiter network fabric is rewriting the assumptions of datacenter locality and memory access costs.",
         "Inside Meta's Project Aria: Reverse engineering the massive, real-time compute pipeline for AR glasses at planetary scale.",
@@ -308,6 +307,9 @@
         "Advances in engineering novel AAV capsids for precise tissue targeting and reduced immunogenicity in next-gen gene therapies.",
         "Beyond Kubernetes: The Next Frontier in Global-Scale Resource Scheduling and Job Migration for Heterogeneous Workloads",
         "Engineering Oncolytic Adenoviruses for Enhanced Tumor Selectivity and Immunogenicity in Next-Gen Cancer Therapies",
-        "The Architecture of Hyperscale Vector Databases for Billion-Scale Embeddings and Real-time Semantic Search"
+        "The Architecture of Hyperscale Vector Databases for Billion-Scale Embeddings and Real-time Semantic Search",
+        "The Programmable Data Plane: How SmartNICs and P4 are Redefining Hyperscale Cloud Networking",
+        "Global Data Consistency at Extreme Scale: Engineering Tradeoffs and Innovative Consensus Mechanisms in Geo-Distributed Databases",
+        "Beyond Linear mRNA: Engineering Self-Amplifying and Circular RNA for Next-Gen Viral and Therapeutic Applications"
     ]
 }
