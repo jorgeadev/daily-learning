@@ -30,7 +30,6 @@
         "Riot Games’ League of Legends global matchmaking and low-latency game server infrastructure.",
         "Fastly’s Edge CDN architecture and the Varnish caching engine deep-dive.",
         "Roblox’s user-generated content infrastructure: serving 3D assets to millions of active concurrent players globally.",
-        "Grab's super-app architecture: handling ride-hailing, food delivery, and payments across Southeast Asia.",
         "NASA's JPL cloud computing architecture: how they managed the telemetry data pipeline for the Mars Rover.",
         "An deep dive into how AWS Nitro cards physically offload networking and storage from EC2 instances.",
         "Recent revolutionary advancements in WebAssembly (Wasm) and the hype around running backend services in the browser.",
@@ -320,6 +319,9 @@
         "Beyond Cas9: Exploring the Landscape of Prime Editing and Base Editing for Precision In Vivo Gene Therapy",
         "The Architectural Deep Dive into CXL's Role in Next-Generation Hyperscale Disaggregated Memory and Compute",
         "Designing Exascale AI Training Fabrics: Overcoming Interconnect Bottlenecks and Fault Tolerance Challenges in Distributed GPU Clusters",
-        "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies"
+        "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies",
+        "Distributed consensus without leaders: How Amazon is deploying CRDT-based databases for planetary-scale shopping cart consistency.",
+        "The thermal tax: A post-mortem of Meta's liquid immersion cooling overhaul for 100kW+ GPU clusters in the wake of the Llama 4 training run.",
+        "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision."
     ]
 }
