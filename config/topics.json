@@ -126,7 +126,6 @@
         "Liquid Immersion Cooling Architectures for AI-Accelerated Data Centers: Efficiency and Scalability Beyond the Rack",
         "Advanced AAV Vector Engineering for Precision Gene Therapy Delivery: Navigating Immunogenicity and Tissue Specificity",
         "The Architectural Evolution of Memory-Disaggregated Systems in Hyperscale Data Centers driven by CXL",
-        "Beyond Consensus: Architecting Geo-Distributed Transactional Databases for Extreme Consistency and Throughput",
         "Synthetic Virology: Designing Next-Generation Phage Therapies for Combatting Antimicrobial Resistance at Scale",
         "Disaggregating Compute and Memory at Hyperscale: Architectural Implications for Next-Gen Data Center Fabrics",
         "Scaling Foundation Models: Architectural Strategies for Terabyte-Scale Parameter Training on Distributed GPU Clusters",
@@ -318,6 +317,9 @@
         "Programmable phage engineering: Overcoming therapeutic resistance with AI-driven design of bespoke bacteriophage cocktails for multi-drug resistant infections.",
         "The Architectural Shift: Leveraging CXL 3.0 for Disaggregated Memory and Compute in Hyperscale Infrastructures",
         "Achieving Ultra-Low Latency and High Throughput in Global-Scale Graph Database Systems Using Persistent Memory and RDMA",
-        "Beyond Cas9: Exploring the Landscape of Prime Editing and Base Editing for Precision In Vivo Gene Therapy"
+        "Beyond Cas9: Exploring the Landscape of Prime Editing and Base Editing for Precision In Vivo Gene Therapy",
+        "The Architectural Deep Dive into CXL's Role in Next-Generation Hyperscale Disaggregated Memory and Compute",
+        "Designing Exascale AI Training Fabrics: Overcoming Interconnect Bottlenecks and Fault Tolerance Challenges in Distributed GPU Clusters",
+        "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies"
     ]
 }
