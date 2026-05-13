@@ -10,7 +10,6 @@
         "A deep dive into the infrastructure of modern high-frequency trading platforms: nanoseconds and FPGA power.",
         "Recent disruptive tech releases or viral developer trends on social media that captivated the engineering world.",
         "An analysis of a recent highly-anticipated open-source framework release and the hype surrounding its launch.",
-        "A major recent cloud outage: analyzing the architecture failure points, the engineering response, and the aftermath.",
         "How Netflix achieved Multi-Region High Availability and zero downtime evacuations.",
         "The architecture of Uber’s Dispatch System: handling thousands of real-time matches per second.",
         "Stripe’s real-time ledger infrastructure: how they ensure 100% financial consistency at massive scale.",
@@ -316,6 +315,9 @@
         "Engineering the invisible: Leveraging deep learning for *de novo* design and optimization of synthetic viral capsids for drug delivery.",
         "The algorithmic nexus: How hyperscale cloud providers are leveraging reinforcement learning for real-time, global energy grid optimization and carbon-aware workload placement.",
         "Stateless by design, stateful by necessity: Architecting consistent, low-latency state management for serverless platforms handling exabyte-scale data streams.",
-        "Programmable phage engineering: Overcoming therapeutic resistance with AI-driven design of bespoke bacteriophage cocktails for multi-drug resistant infections."
+        "Programmable phage engineering: Overcoming therapeutic resistance with AI-driven design of bespoke bacteriophage cocktails for multi-drug resistant infections.",
+        "The Architectural Shift: Leveraging CXL 3.0 for Disaggregated Memory and Compute in Hyperscale Infrastructures",
+        "Achieving Ultra-Low Latency and High Throughput in Global-Scale Graph Database Systems Using Persistent Memory and RDMA",
+        "Beyond Cas9: Exploring the Landscape of Prime Editing and Base Editing for Precision In Vivo Gene Therapy"
     ]
 }
