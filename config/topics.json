@@ -186,7 +186,6 @@
         "Synthetic Biology's Vanguard: Engineering Self-Amplifying RNA and Novel Viral Vectors for Pandemic Preparedness",
         "The Convergence of Optical Switching and Quantum Networking for Inter-Datacenter Low-Latency AI Fabric Architectures.",
         "CXL 3.0 and Memory Tiering: Architecting Disaggregated, Petabyte-Scale Memory Pools in Hyperscale Clouds.",
-        "CRISPR Prime Editing's Leap Forward: Engineering Precise Genomic Edits with Enhanced Efficiency and Reduced Off-Target Effects.",
         "Autonomous Failure Prediction and Self-Correction: Designing Resilient Hyperscale Distributed Systems with AI/ML-Driven Observability",
         "The Invisible Backplane: Dissecting Software-Defined Networking (SDN) Evolution for Global Hyperscale Interconnects and Microsecond Latency Optimization",
         "Next-Gen Viral Vector Engineering: Designing Tissue-Specific, Spatiotemporally Controlled Gene Editing Systems for In Vivo Therapeutic Applications",
@@ -322,6 +321,9 @@
         "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies",
         "Distributed consensus without leaders: How Amazon is deploying CRDT-based databases for planetary-scale shopping cart consistency.",
         "The thermal tax: A post-mortem of Meta's liquid immersion cooling overhaul for 100kW+ GPU clusters in the wake of the Llama 4 training run.",
-        "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision."
+        "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision.",
+        "Disaggregated Compute and Memory Architectures: The Next Frontier for Hyperscale Data Centers.",
+        "Engineering High-Cardinality Observability Platforms for Trillion-Event Microservices Ecosystems.",
+        "AI-Accelerated De Novo Design of Enhanced AAV Capsids for Precision Gene Therapy."
     ]
 }
