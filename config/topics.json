@@ -166,7 +166,6 @@
         "Advanced Serverless Runtime Optimization: Deep Dive into MicroVM Snapshotting and Predictive Pre-warming for Hyperscale FaaS Platforms",
         "The Engineering of Global Consensus: How TrueTime and Hybrid Logical Clocks Achieve External Consistency in Massively Distributed SQL Databases",
         "Next-Generation mRNA Vaccine Delivery: Technical Challenges and Breakthroughs in Lipid Nanoparticle Alternatives and Self-Amplifying RNA Constructs",
-        "Siloed to Unified: How Meta Re-architected Real-Time Data Streaming for Exabyte-Scale AI Training Pipelines",
         "Inside the Cellular-Scale Optical Fabric: Dissecting Microsoft's Phoenix Datacenter Network Topology for Global AI Supercomputing",
         "Idempotency at Exabyte Scale: Enforcing Exactly-Once Semantics in Globally Distributed Storage Backends",
         "Demystifying Meta's Zonal Shuffle: A Deep Dive into Cross-Region VM Migration with Sub-Second Blips",
@@ -328,6 +327,9 @@
         "Serverless at the Extreme Edge: Engineering Bespoke Micro-Hardware and Network Protocols for Sub-Millisecond Latency and Resource-Constrained Environments",
         "The Anatomy of Hyperscale Software-Defined Networking: Programmable ASICs and P4-Driven Dataplane Architectures.",
         "Distributed Consensus at the Edge: Overcoming WAN Latency and Partition Tolerance in Globally Replicated Data Stores.",
-        "Optimizing Real-time Feature Stores for Low-Latency Personalization During Viral Content Spikes."
+        "Optimizing Real-time Feature Stores for Low-Latency Personalization During Viral Content Spikes.",
+        "The Architectural Evolution of Hyperscale Data Center Networking: From CLOS Fabrics to Programmable DPU-Accelerated SmartNICs",
+        "Achieving Strong Consistency at Global Scale: A Deep Dive into Distributed Transactional Systems and the Paxos/Raft Alternatives",
+        "Beyond mRNA Vaccines: Engineering Self-Amplifying RNA Platforms for Durable and Broad-Spectrum Antiviral Immunization"
     ]
 }
