@@ -88,7 +88,6 @@
         "Beyond Kubernetes: The Rise of WebAssembly-Based Orchestration for Heterogeneous Edge Compute",
         "The Physics of Cooling: How Hyperscalers are Designing Direct-to-Chip Two-Phase Immersion Systems for 100kW+ Racks",
         "Dissecting the 'Read-After-Write' Consistency Crisis in Modern, Globally-Distributed Social Graphs",
-        "The Unspoken Trade-offs of Multi-Region Active-Active Architectures: Beyond the 11 Nines",
         "Deconstructing the Data Mesh: Implementing Federated Computational Governance at Petabyte Scale",
         "Beyond Natural Tropism: Engineering Synthetic Viral Vectors for Targeted Organ Delivery in Advanced Gene Therapies.",
         "The Engineering Challenges of Disaggregated Compute and Memory Architectures for Petabyte-Scale AI Model Training",
@@ -330,6 +329,9 @@
         "Optimizing Real-time Feature Stores for Low-Latency Personalization During Viral Content Spikes.",
         "The Architectural Evolution of Hyperscale Data Center Networking: From CLOS Fabrics to Programmable DPU-Accelerated SmartNICs",
         "Achieving Strong Consistency at Global Scale: A Deep Dive into Distributed Transactional Systems and the Paxos/Raft Alternatives",
-        "Beyond mRNA Vaccines: Engineering Self-Amplifying RNA Platforms for Durable and Broad-Spectrum Antiviral Immunization"
+        "Beyond mRNA Vaccines: Engineering Self-Amplifying RNA Platforms for Durable and Broad-Spectrum Antiviral Immunization",
+        "Hyperscale Data Center Optical Fabric Architectures: Challenges and Innovations in Peta-Bit Interconnects for AI Workloads.",
+        "Beyond Cold Starts: Engineering Predictable Low-Latency Performance for Hyperscale Serverless Workloads with WebAssembly and MicroVM Runtimes.",
+        "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability."
     ]
 }
