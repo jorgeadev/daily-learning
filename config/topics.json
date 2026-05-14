@@ -51,7 +51,6 @@
         "Synthetic biology approaches to engineering enhanced viral vectors for precise in-vivo gene delivery and reduced immunogenicity.",
         "The Architectural Implications of Disaggregated Memory and Compute for Future Hyperscale Data Centers",
         "Achieving Global-Scale Strong Consistency in Geo-Distributed Databases: A Deep Dive into Conflict Resolution and Consensus Protocols",
-        "Disaggregated Memory Architectures and CXL's Role in Scaling Hyperscale AI Model Training Clusters",
         "Deep dive into maintaining strong temporal consistency across globally distributed, eventually consistent transactional databases: challenges and novel solutions.",
         "Architecting Quantum-Resistant Cryptography Integration into Hyperscale Cloud Service Meshes and PKI Systems",
         "The Deep Engineering Behind Multi-Region Consensus Protocols for Exabyte-Scale, Ultra-Low Latency Data Stores",
@@ -324,6 +323,9 @@
         "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision.",
         "Disaggregated Compute and Memory Architectures: The Next Frontier for Hyperscale Data Centers.",
         "Engineering High-Cardinality Observability Platforms for Trillion-Event Microservices Ecosystems.",
-        "AI-Accelerated De Novo Design of Enhanced AAV Capsids for Precision Gene Therapy."
+        "AI-Accelerated De Novo Design of Enhanced AAV Capsids for Precision Gene Therapy.",
+        "The Engineering Behind Ultra-High Bandwidth, Low-Latency Interconnects for Distributed AI Training: From Custom ASICs to Next-Gen Network Topologies",
+        "Disaggregated Compute and Memory in Hyperscale Clouds: Architectural Shifts for CXL, Optical Interconnects, and Workload-Optimized Resource Fabrics",
+        "Serverless at the Extreme Edge: Engineering Bespoke Micro-Hardware and Network Protocols for Sub-Millisecond Latency and Resource-Constrained Environments"
     ]
 }
