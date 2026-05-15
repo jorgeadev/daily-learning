@@ -143,7 +143,6 @@
         "Optimizing Hypervisor-Level Co-Scheduling and Memory Paging for Near-Zero Cold Starts in Petabyte-Scale Serverless Architectures",
         "The Cutting Edge of CRISPR-Cas Engineered Phage Therapeutics: Overcoming Delivery and Immunogenicity Challenges for Multi-Drug Resistant Pathogens",
         "Architecting Petabyte-Scale Data Storage Solutions Using Enzymatically Synthesized DNA Polymers and Advanced Sequencing Readout Techniques",
-        "Beyond gRPC: Crafting Ultra-Low Latency, High-Throughput Communication Primitives for Inter-Service Mesh Data Planes in Hyperscale Environments",
         "CRISPR-Cas as a Programmable Antiviral: Unpacking the Mechanisms and Challenges of Engineering Broad-Spectrum Viral Resistance into Mammalian Cells",
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
@@ -336,6 +335,9 @@
         "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects",
         "Architecting Hyperscale Edge AI Inference: Beyond Centralized Cloud and Towards Self-Healing, Distributed Model Deployment at the Far Edge.",
         "The Engineering of Ultra-Low Latency Global Event Streaming: Achieving Millisecond Latency Across Continents with Custom Network Stacks and Distributed State Machines.",
-        "Advanced Viral Vector Design for Next-Generation Gene Therapies: Overcoming Immunogenicity and Enhancing Tissue Specificity Through Directed Evolution and Synthetic Capsids."
+        "Advanced Viral Vector Design for Next-Generation Gene Therapies: Overcoming Immunogenicity and Enhancing Tissue Specificity Through Directed Evolution and Synthetic Capsids.",
+        "The Microkernel Revolution: Disaggregating Hyperscale Cloud Infrastructure with Emerging Hardware Architectures like CXL and DPUs for Next-Gen Resource Management.",
+        "Beyond GPUs: Scaling Trillion-Parameter AI Models with Specialized Interconnects, Gradient Compression, and Asynchronous Execution in Distributed Training Frameworks.",
+        "CRISPR-Powered Phage Engineering: Precision Bacteriophage Design for Antimicrobial Resistance Combat and Targeted Microbiome Modulation Through Advanced Synthetic Biology."
     ]
 }
