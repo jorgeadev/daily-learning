@@ -237,7 +237,6 @@
         "The architectural evolution of large language model serving infrastructure: From monolithic deployments to adaptive distributed inference engines.",
         "Engineering global pathogen surveillance: Architecting privacy-preserving, real-time genomic sequencing and AI-driven anomaly detection networks.",
         "Scalable Inter-chip Communication Architectures for Trillion-Parameter AI Model Inference in Hyperscale Data Centers",
-        "Next-Generation Liquid Cooling and Heat Reuse Strategies for Exascale AI Superclusters",
         "AI-Accelerated Rational Design of Novel Antiviral Therapeutics: From Protein Folding to High-Throughput Screening",
         "The Hyperscale Architectures Driving AI Model Training: Beyond Distributed GPU Clusters to Photonic Interconnects",
         "Designing the 'Infinite' CDN: How Major Platforms Manage Real-Time Content Delivery in a Post-HTTP/3 World with QUIC-aware Edge Caching and Serverless Functions",
@@ -334,6 +333,9 @@
         "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability.",
         "The Architecture of Hyperscale Generative AI Training: From Custom Silicon Interconnects to Liquid Immersion Cooling Infrastructures",
         "Achieving P99.9 Latency in Globally Distributed Databases: A Deep Dive into Optimistic Concurrency Control and Eventual Consistency at Scale",
-        "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects"
+        "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects",
+        "Architecting Hyperscale Edge AI Inference: Beyond Centralized Cloud and Towards Self-Healing, Distributed Model Deployment at the Far Edge.",
+        "The Engineering of Ultra-Low Latency Global Event Streaming: Achieving Millisecond Latency Across Continents with Custom Network Stacks and Distributed State Machines.",
+        "Advanced Viral Vector Design for Next-Generation Gene Therapies: Overcoming Immunogenicity and Enhancing Tissue Specificity Through Directed Evolution and Synthetic Capsids."
     ]
 }
