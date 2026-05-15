@@ -209,7 +209,6 @@
         "Advanced Lipid Nanoparticle Design for Targeted mRNA Delivery in Next-Generation Therapeutic Vaccines",
         "Hardware-Accelerated Zero-Trust Networking for Intra-Datacenter Microservices at Hyperscale",
         "Beyond Paxos and Raft: Exploring Quorum-Less Distributed State Management for Planetary-Scale Edge Compute",
-        "Advances in Adeno-Associated Virus (AAV) Capsid Engineering for Enhanced Tissue Tropism and Reduced Immunogenicity in Gene Therapy",
         "The architectural evolution of large language model serving: from static endpoints to dynamic, multi-tenant inference graphs.",
         "Hyperscale data center thermal management: A deep dive into advanced liquid cooling and immersion strategies for petascale AI clusters.",
         "DNA as a data center: Engineering challenges and potential of high-density genomic information storage and retrieval.",
@@ -332,6 +331,9 @@
         "Beyond mRNA Vaccines: Engineering Self-Amplifying RNA Platforms for Durable and Broad-Spectrum Antiviral Immunization",
         "Hyperscale Data Center Optical Fabric Architectures: Challenges and Innovations in Peta-Bit Interconnects for AI Workloads.",
         "Beyond Cold Starts: Engineering Predictable Low-Latency Performance for Hyperscale Serverless Workloads with WebAssembly and MicroVM Runtimes.",
-        "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability."
+        "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability.",
+        "The Architecture of Hyperscale Generative AI Training: From Custom Silicon Interconnects to Liquid Immersion Cooling Infrastructures",
+        "Achieving P99.9 Latency in Globally Distributed Databases: A Deep Dive into Optimistic Concurrency Control and Eventual Consistency at Scale",
+        "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects"
     ]
 }
