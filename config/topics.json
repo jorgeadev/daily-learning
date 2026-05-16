@@ -328,7 +328,6 @@
         "Beyond Cold Starts: Engineering Predictable Low-Latency Performance for Hyperscale Serverless Workloads with WebAssembly and MicroVM Runtimes.",
         "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability.",
         "The Architecture of Hyperscale Generative AI Training: From Custom Silicon Interconnects to Liquid Immersion Cooling Infrastructures",
-        "Achieving P99.9 Latency in Globally Distributed Databases: A Deep Dive into Optimistic Concurrency Control and Eventual Consistency at Scale",
         "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects",
         "Architecting Hyperscale Edge AI Inference: Beyond Centralized Cloud and Towards Self-Healing, Distributed Model Deployment at the Far Edge.",
         "The Engineering of Ultra-Low Latency Global Event Streaming: Achieving Millisecond Latency Across Continents with Custom Network Stacks and Distributed State Machines.",
@@ -344,6 +343,9 @@
         "CRISPR-Cas Antiviral Engineering: Precision Gene Editing for Broad-Spectrum Pathogen Defense",
         "The architectural challenges of stateful serverless computing at extreme scale for real-time applications.",
         "Deep dive into hyperscale data center networking: Architecting P4-programmable fabrics for ultra-low latency and dynamic traffic management.",
-        "Beyond CRISPR-Cas9: Exploring advanced gene editing systems and their implications for precision therapeutic development."
+        "Beyond CRISPR-Cas9: Exploring advanced gene editing systems and their implications for precision therapeutic development.",
+        "The evolving role of CXL in next-gen AI superclusters for memory pooling and disaggregation",
+        "Architecting planetary-scale data replication and consistency across hybrid cloud environments",
+        "Accelerating targeted viral delivery systems: Engineering novel capsids for tissue-specific gene therapy"
     ]
 }
