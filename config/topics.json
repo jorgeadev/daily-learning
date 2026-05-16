@@ -85,7 +85,6 @@
         "The Physics of Viral Spread: Modeling and Engineering Contagion Dynamics in Social Feeds",
         "The Unspoken Trade-offs of Global Anycast: A Deep Dive into TCP Meltdowns and Geo-aware Load Balancing",
         "Deconstructing Meta's Threads: The Real-Time Feed Architecture for 100M+ Users on Day One",
-        "Beyond Kubernetes: The Rise of WebAssembly-Based Orchestration for Heterogeneous Edge Compute",
         "The Physics of Cooling: How Hyperscalers are Designing Direct-to-Chip Two-Phase Immersion Systems for 100kW+ Racks",
         "Dissecting the 'Read-After-Write' Consistency Crisis in Modern, Globally-Distributed Social Graphs",
         "Deconstructing the Data Mesh: Implementing Federated Computational Governance at Petabyte Scale",
@@ -342,6 +341,9 @@
         "Directed Evolution of AAV Capsids: Engineering Tropism and Immunogenicity for Next-Generation Gene Therapies.",
         "DPU and SmartNIC Architectures: Redefining Network and Storage Offloading in Hyperscale Data Centers",
         "Architecting Global Consensus for Exabyte-Scale Distributed Ledgers: Beyond Paxos and Raft",
-        "CRISPR-Cas Antiviral Engineering: Precision Gene Editing for Broad-Spectrum Pathogen Defense"
+        "CRISPR-Cas Antiviral Engineering: Precision Gene Editing for Broad-Spectrum Pathogen Defense",
+        "The architectural challenges of stateful serverless computing at extreme scale for real-time applications.",
+        "Deep dive into hyperscale data center networking: Architecting P4-programmable fabrics for ultra-low latency and dynamic traffic management.",
+        "Beyond CRISPR-Cas9: Exploring advanced gene editing systems and their implications for precision therapeutic development."
     ]
 }
