@@ -18,7 +18,6 @@
         "Cloudflare’s Edge computing architecture: how Workers deploy code to hundreds of data centers in milliseconds.",
         "AWS DynamoDB under the hood: how Amazon scales a NoSQL database seamlessly across regions.",
         "Reddit’s handling of immense traffic spikes during viral world events or massive AMAs.",
-        "Pinterest’s machine learning infrastructure: how they serve visually similar image matches in real-time.",
         "Slack’s transition to a modern real-time architecture to reduce client CPU usage and handle massive channels.",
         "Meta’s Memcached architecture: scaling distributed caching to handle trillions of requests per second.",
         "Twitch’s massive live video streaming infrastructure: minimizing latency for millions of concurrent viewers.",
@@ -346,6 +345,9 @@
         "Beyond CRISPR-Cas9: Exploring advanced gene editing systems and their implications for precision therapeutic development.",
         "The evolving role of CXL in next-gen AI superclusters for memory pooling and disaggregation",
         "Architecting planetary-scale data replication and consistency across hybrid cloud environments",
-        "Accelerating targeted viral delivery systems: Engineering novel capsids for tissue-specific gene therapy"
+        "Accelerating targeted viral delivery systems: Engineering novel capsids for tissue-specific gene therapy",
+        "The Architectural Principles Behind Hyperscale Real-time Anomaly Detection Systems: From Graph Neural Networks to Probabilistic Fault Injection",
+        "Hardware-Software Co-Design for Next-Generation Data Center Interconnects: Disaggregated Fabrics, Silicon Photonics, and Custom ASICs",
+        "AI-Driven Discovery of Novel Viral Receptors: Accelerating Antiviral Therapeutics Through Deep Learning and Structural Biology"
     ]
 }
