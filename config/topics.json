@@ -61,7 +61,6 @@
         "Next-Generation mRNA Vaccine Platforms: Engineering Self-Replicating RNA and Novel Adjuvants for Enhanced Immunogenicity",
         "CRISPR-Engineered Phage Lysins: A Novel Approach to Combatting Multi-Drug Resistant Bacterial Biofilms in Clinical Settings",
         "Deconstructing Hyperscale Transactional Consistency: The role of geo-distributed consensus protocols and hybrid logical clocks in global cloud databases.",
-        "The Cambrian Explosion of Data Planes: eBPF, P4, and the programmable infrastructure powering next-gen cloud networking at petabit scale.",
         "Evolving Hyperscale Networks: The Interplay of Software-Defined Networking and BGP-EVPN for Inter-Datacenter Connectivity.",
         "Engineering Next-Gen mRNA Vaccines: Advancements in Lipid Nanoparticle Delivery Systems and Immunostimulatory Design.",
         "CXL 3.0 and Disaggregated Memory Pooling: Architecting the Next Generation of Hyperscale Data Center Resource Utilization",
@@ -350,6 +349,9 @@
         "AI-Driven Discovery of Novel Viral Receptors: Accelerating Antiviral Therapeutics Through Deep Learning and Structural Biology",
         "The Architectural Evolution of Hyperscale Vector Databases for Real-time AI Embedding Search",
         "Engineering Novel Phage Endolysins: A Path Towards Broad-Spectrum Antimicrobials in the Post-Antibiotic Era",
-        "Beyond gRPC: Next-Gen Inter-Service Communication Protocols for Ultra-Low Latency Microservices at Netflix-Scale"
+        "Beyond gRPC: Next-Gen Inter-Service Communication Protocols for Ultra-Low Latency Microservices at Netflix-Scale",
+        "Heterogeneous Memory Tiering at Meta: Migrating Hot Pages Across DRAM and CXL-Attached NAND for Hyperscale Database Workloads",
+        "Dissecting the Intra-Node Fabric: NVLink-C2C and the Decoupling of Compute from Memory in Google's TPU v6 Pods",
+        "How Uber Re-Architected Their Global Pub/Sub Mesh After the 2023 Manhattan Control Plane Failure: A Case Study in CRDT-Based Partition Healing"
     ]
 }
