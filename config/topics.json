@@ -323,7 +323,6 @@
         "Beyond mRNA Vaccines: Engineering Self-Amplifying RNA Platforms for Durable and Broad-Spectrum Antiviral Immunization",
         "Hyperscale Data Center Optical Fabric Architectures: Challenges and Innovations in Peta-Bit Interconnects for AI Workloads.",
         "Beyond Cold Starts: Engineering Predictable Low-Latency Performance for Hyperscale Serverless Workloads with WebAssembly and MicroVM Runtimes.",
-        "Synthetic Biology Approaches to Engineering Self-Assembling Nanoparticle Viral Vaccine Platforms with Enhanced Efficacy and Scalability.",
         "The Architecture of Hyperscale Generative AI Training: From Custom Silicon Interconnects to Liquid Immersion Cooling Infrastructures",
         "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects",
         "Architecting Hyperscale Edge AI Inference: Beyond Centralized Cloud and Towards Self-Healing, Distributed Model Deployment at the Far Edge.",
@@ -354,6 +353,9 @@
         "How Uber Re-Architected Their Global Pub/Sub Mesh After the 2023 Manhattan Control Plane Failure: A Case Study in CRDT-Based Partition Healing",
         "The advent of programmable data planes (P4) and their impact on next-gen hyperscale data center network architecture for AI/ML workloads.",
         "Architecting global-scale, real-time fraud detection systems using stream processing, graph neural networks, and federated learning at exabyte scale.",
-        "Synthetic virology: Engineering novel viral capsids and genomes for precision gene delivery and oncolytic therapies beyond CRISPR."
+        "Synthetic virology: Engineering novel viral capsids and genomes for precision gene delivery and oncolytic therapies beyond CRISPR.",
+        "The Disaggregated Future: CXL and PIM Architectures Reshaping Hyperscale Memory and Compute",
+        "Beyond Eventual Consistency: Achieving Strong Consistency at Petabyte Scale with Distributed Transaction Protocols",
+        "Precision Viral Engineering: Designing AAV Capsids for Targeted Gene Delivery and Reduced Immunogenicity"
     ]
 }
