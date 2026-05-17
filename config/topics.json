@@ -327,7 +327,6 @@
         "The Architecture of Hyperscale Generative AI Training: From Custom Silicon Interconnects to Liquid Immersion Cooling Infrastructures",
         "Engineering Programmable Oncolytic Viruses: Leveraging AI and Synthetic Biology for Targeted Cancer Therapies with Minimal Off-Target Effects",
         "Architecting Hyperscale Edge AI Inference: Beyond Centralized Cloud and Towards Self-Healing, Distributed Model Deployment at the Far Edge.",
-        "The Engineering of Ultra-Low Latency Global Event Streaming: Achieving Millisecond Latency Across Continents with Custom Network Stacks and Distributed State Machines.",
         "Advanced Viral Vector Design for Next-Generation Gene Therapies: Overcoming Immunogenicity and Enhancing Tissue Specificity Through Directed Evolution and Synthetic Capsids.",
         "The Microkernel Revolution: Disaggregating Hyperscale Cloud Infrastructure with Emerging Hardware Architectures like CXL and DPUs for Next-Gen Resource Management.",
         "Beyond GPUs: Scaling Trillion-Parameter AI Models with Specialized Interconnects, Gradient Compression, and Asynchronous Execution in Distributed Training Frameworks.",
@@ -352,6 +351,9 @@
         "Beyond gRPC: Next-Gen Inter-Service Communication Protocols for Ultra-Low Latency Microservices at Netflix-Scale",
         "Heterogeneous Memory Tiering at Meta: Migrating Hot Pages Across DRAM and CXL-Attached NAND for Hyperscale Database Workloads",
         "Dissecting the Intra-Node Fabric: NVLink-C2C and the Decoupling of Compute from Memory in Google's TPU v6 Pods",
-        "How Uber Re-Architected Their Global Pub/Sub Mesh After the 2023 Manhattan Control Plane Failure: A Case Study in CRDT-Based Partition Healing"
+        "How Uber Re-Architected Their Global Pub/Sub Mesh After the 2023 Manhattan Control Plane Failure: A Case Study in CRDT-Based Partition Healing",
+        "The advent of programmable data planes (P4) and their impact on next-gen hyperscale data center network architecture for AI/ML workloads.",
+        "Architecting global-scale, real-time fraud detection systems using stream processing, graph neural networks, and federated learning at exabyte scale.",
+        "Synthetic virology: Engineering novel viral capsids and genomes for precision gene delivery and oncolytic therapies beyond CRISPR."
     ]
 }
