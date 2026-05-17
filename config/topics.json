@@ -280,7 +280,6 @@
         "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI.",
         "Architecting Global Transactional Consistency: A Deep Dive into Hyperscale Distributed Database Consensus Mechanisms",
         "The Rise of Programmable Networks: How DPUs are Reshaping Hyperscale Cloud Infrastructure for Next-Gen Workloads",
-        "Engineering Phage-Based Systems for Scalable Precision Microbiome Editing and Therapeutic Delivery",
         "Architecting Exabyte-Scale Real-time Stream Processing for Global User Engagement Platforms",
         "The Deep Technical Challenges of Deploying Custom AI Accelerators Across Hyperscale Edge Networks",
         "Beyond CRISPR: Engineering Next-Generation Viral Vectors for Scalable In Vivo Gene Delivery Systems",
@@ -348,6 +347,9 @@
         "Accelerating targeted viral delivery systems: Engineering novel capsids for tissue-specific gene therapy",
         "The Architectural Principles Behind Hyperscale Real-time Anomaly Detection Systems: From Graph Neural Networks to Probabilistic Fault Injection",
         "Hardware-Software Co-Design for Next-Generation Data Center Interconnects: Disaggregated Fabrics, Silicon Photonics, and Custom ASICs",
-        "AI-Driven Discovery of Novel Viral Receptors: Accelerating Antiviral Therapeutics Through Deep Learning and Structural Biology"
+        "AI-Driven Discovery of Novel Viral Receptors: Accelerating Antiviral Therapeutics Through Deep Learning and Structural Biology",
+        "The Architectural Evolution of Hyperscale Vector Databases for Real-time AI Embedding Search",
+        "Engineering Novel Phage Endolysins: A Path Towards Broad-Spectrum Antimicrobials in the Post-Antibiotic Era",
+        "Beyond gRPC: Next-Gen Inter-Service Communication Protocols for Ultra-Low Latency Microservices at Netflix-Scale"
     ]
 }
