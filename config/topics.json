@@ -304,7 +304,6 @@
         "The Architectural Deep Dive into CXL's Role in Next-Generation Hyperscale Disaggregated Memory and Compute",
         "Designing Exascale AI Training Fabrics: Overcoming Interconnect Bottlenecks and Fault Tolerance Challenges in Distributed GPU Clusters",
         "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies",
-        "Distributed consensus without leaders: How Amazon is deploying CRDT-based databases for planetary-scale shopping cart consistency.",
         "The thermal tax: A post-mortem of Meta's liquid immersion cooling overhaul for 100kW+ GPU clusters in the wake of the Llama 4 training run.",
         "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision.",
         "Disaggregated Compute and Memory Architectures: The Next Frontier for Hyperscale Data Centers.",
