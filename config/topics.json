@@ -128,7 +128,6 @@
         "The Architectural Evolution of Hyperscale Data Center Network Fabrics for Terabit-Scale Interconnects and Congestion Management",
         "Achieving Global Strong Consistency with Shard-Splitting and Multi-Paxos Variants in Planet-Scale Distributed Database Systems",
         "CRISPR-Guided Phage Engineering: Precision Delivery and Genetically Modified Viral Vectors for In Vivo Therapeutic Applications",
-        "The architectural intricacies of hyper-scale distributed consensus protocols powering zettabyte-scale globally replicated data stores.",
         "Deep dive into Firecracker microVMs and snapshotting techniques for mitigating serverless cold starts at hyperscale.",
         "Decoding the Interconnects: Memory Bandwidth Bottlenecks and Custom Fabric Solutions for Trillion-Parameter LLM Inference",
         "From PUE to PUD: Advancements in Disaggregated Computing and Direct Liquid Cooling for Hyperscale Infrastructure",
@@ -358,6 +357,9 @@
         "Precision Viral Engineering: Designing AAV Capsids for Targeted Gene Delivery and Reduced Immunogenicity",
         "The Engineering Behind Geo-Distributed Strong Consistency: Scaling Global Transaction Models in Cloud Databases",
         "Disaggregated Memory and Compute: Architecting the Next Generation of Hyperscale Data Center Infrastructure",
-        "Beyond Kubernetes: Orchestrating Heterogeneous Compute and Accelerators for AGI Workloads Across Global Superclusters"
+        "Beyond Kubernetes: Orchestrating Heterogeneous Compute and Accelerators for AGI Workloads Across Global Superclusters",
+        "Adaptive Congestion Control Mechanisms in Hyperscale Data Center Networks for AI/ML Workloads",
+        "Achieving Strong Global Consistency in Multi-Region Distributed Databases Using Causality Tracking and Hybrid Logical Clocks",
+        "CRISPR-Powered Phage Engineering for Precision Microbiome Modulation and Multi-Drug Resistant Pathogen Eradication"
     ]
 }
