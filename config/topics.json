@@ -294,7 +294,6 @@
         "How Google Used CXL Memory Tiering to Throttle Hotspots in Borg: A Deep Dive into Heterogeneous Resource Scheduling at Planetary Scale",
         "The unseen architecture: How specialized accelerators and distributed inference engines drive generative AI models at global scale.",
         "Beyond the cloud: Architecting global-scale serverless functions for ultra-low latency edge compute environments.",
-        "Engineering the invisible: Leveraging deep learning for *de novo* design and optimization of synthetic viral capsids for drug delivery.",
         "The algorithmic nexus: How hyperscale cloud providers are leveraging reinforcement learning for real-time, global energy grid optimization and carbon-aware workload placement.",
         "Stateless by design, stateful by necessity: Architecting consistent, low-latency state management for serverless platforms handling exabyte-scale data streams.",
         "Programmable phage engineering: Overcoming therapeutic resistance with AI-driven design of bespoke bacteriophage cocktails for multi-drug resistant infections.",
@@ -359,6 +358,9 @@
         "Beyond Kubernetes: Orchestrating Heterogeneous Compute and Accelerators for AGI Workloads Across Global Superclusters",
         "Adaptive Congestion Control Mechanisms in Hyperscale Data Center Networks for AI/ML Workloads",
         "Achieving Strong Global Consistency in Multi-Region Distributed Databases Using Causality Tracking and Hybrid Logical Clocks",
-        "CRISPR-Powered Phage Engineering for Precision Microbiome Modulation and Multi-Drug Resistant Pathogen Eradication"
+        "CRISPR-Powered Phage Engineering for Precision Microbiome Modulation and Multi-Drug Resistant Pathogen Eradication",
+        "The Unseen Data Plane: Architecting CXL-Based Memory and Compute Disaggregation for Hyperscale AI/ML Platforms",
+        "Architecting for Quantum Resilience: Practical Implementation Challenges of Post-Quantum Cryptography in Global CDN and Distributed Ledger Infrastructures",
+        "CRISPR-Cas Systems as Programmable Nanobots: Engineering Adeno-Associated Viral Vectors for Precision In-Vivo Gene Editing at Therapeutic Scale"
     ]
 }
