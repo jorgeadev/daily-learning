@@ -251,7 +251,6 @@
         "Beyond Bare Metal: How Programmable Data Planes and SmartNICs Revolutionize Hyperscale AI/ML Network Performance.",
         "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research.",
         "The Rise of CXL: Architecting Disaggregated Memory and Compute for Hyperscale Data Centers",
-        "Implementing Global Consistency with Sub-Millisecond Latency: The Next Frontier in Geo-Distributed Database Sharding",
         "Engineering the Exabyte Challenge: Architectures for DNA-Based Data Storage and Retrieval Systems",
         "The Architectural Shift: Disaggregated Memory and Compute in Hyperscale Data Centers for AI Workloads.",
         "Beyond BGP: How AI-Driven Traffic Engineering Optimizes Global Interconnects for Cloud Providers.",
@@ -365,6 +364,9 @@
         "Beyond AlphaFold: The Distributed Computational Infrastructure for De Novo Protein Design and High-Throughput Biological Simulation",
         "Practical Challenges and Architectural Solutions for Hyper-Scale Post-Quantum Cryptography Migration in Cloud Infrastructure",
         "Beyond Microservices: The Rise of WebAssembly-Powered Nanoservices and Serverless Edge Compute Architectures",
-        "Engineering Novel Phage Therapies: Designing and Scaling the Computational Pipelines for Precision Virome Modulation"
+        "Engineering Novel Phage Therapies: Designing and Scaling the Computational Pipelines for Precision Virome Modulation",
+        "Serverless compute at planetary scale: Unpacking AWS Lambda's Firecracker microVM orchestration and cold start optimization techniques.",
+        "Mitigating 'Thundering Herds' in hyperscale distributed caches: A deep dive into Facebook's cache invalidation strategies and consensus protocols.",
+        "Beyond AAV: Exploring novel viral vectors and directed evolution for next-generation precision gene therapy delivery systems."
     ]
 }
