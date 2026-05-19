@@ -9,7 +9,6 @@
         "Apple's private cloud infrastructure: How they manage iCloud at an unprecedented global scale.",
         "A deep dive into the infrastructure of modern high-frequency trading platforms: nanoseconds and FPGA power.",
         "Recent disruptive tech releases or viral developer trends on social media that captivated the engineering world.",
-        "An analysis of a recent highly-anticipated open-source framework release and the hype surrounding its launch.",
         "How Netflix achieved Multi-Region High Availability and zero downtime evacuations.",
         "The architecture of Uber’s Dispatch System: handling thousands of real-time matches per second.",
         "Stripe’s real-time ledger infrastructure: how they ensure 100% financial consistency at massive scale.",
@@ -367,6 +366,9 @@
         "Engineering Novel Phage Therapies: Designing and Scaling the Computational Pipelines for Precision Virome Modulation",
         "Serverless compute at planetary scale: Unpacking AWS Lambda's Firecracker microVM orchestration and cold start optimization techniques.",
         "Mitigating 'Thundering Herds' in hyperscale distributed caches: A deep dive into Facebook's cache invalidation strategies and consensus protocols.",
-        "Beyond AAV: Exploring novel viral vectors and directed evolution for next-generation precision gene therapy delivery systems."
+        "Beyond AAV: Exploring novel viral vectors and directed evolution for next-generation precision gene therapy delivery systems.",
+        "The Architecture of Hyperscale Ephemeral Block Storage for Serverless Workloads: Durability and Latency at Petabyte Scale",
+        "Optical Circuit Switching and Programmable Data Planes: Reshaping Inter-DC Traffic Engineering for Exascale Cloud Infrastructure",
+        "AI-Driven Directed Evolution: Engineering Next-Gen AAV Capsids for Precision Gene Therapy and Minimized Immunogenicity"
     ]
 }
