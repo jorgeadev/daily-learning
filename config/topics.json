@@ -142,7 +142,6 @@
         "The Evolution of Disaggregated AI Compute: From Shared Memory Architectures to DPU-driven Resource Pooling at Hyperscale",
         "CRISPR-Cas Systems Beyond Gene Editing: Engineering Antiviral Defenses and Ultra-Sensitive Diagnostic Platforms with RNA-Guided Surveillance",
         "CRISPR-Associated Transposons (CASTs) for Large-Scale Programmable DNA Integration in Eukaryotic Viral Vectors for Advanced Gene Therapies",
-        "Fine-grained Resource Allocation and Scheduling in Heterogeneous GPU Clusters for Foundation Model Training at Scale",
         "AI-Driven De Novo Design of Synthetic Viral Capsids for Next-Generation Targeted Gene Therapy Delivery",
         "Architecting for Observability at Zettabyte Scale: The Challenges of Real-time Telemetry Processing and Anomaly Detection in Hyperscale Cloud Environments",
         "The Unseen Architecture: How Hyperscalers Engineer Quantum-Proof Cryptography Key Distribution Systems",
@@ -361,6 +360,9 @@
         "CRISPR-Powered Phage Engineering for Precision Microbiome Modulation and Multi-Drug Resistant Pathogen Eradication",
         "The Unseen Data Plane: Architecting CXL-Based Memory and Compute Disaggregation for Hyperscale AI/ML Platforms",
         "Architecting for Quantum Resilience: Practical Implementation Challenges of Post-Quantum Cryptography in Global CDN and Distributed Ledger Infrastructures",
-        "CRISPR-Cas Systems as Programmable Nanobots: Engineering Adeno-Associated Viral Vectors for Precision In-Vivo Gene Editing at Therapeutic Scale"
+        "CRISPR-Cas Systems as Programmable Nanobots: Engineering Adeno-Associated Viral Vectors for Precision In-Vivo Gene Editing at Therapeutic Scale",
+        "The Hyperscale Interconnect Fabrics Powering Trillion-Parameter LLM Training: A Deep Dive into Custom Silicon and Network Topologies",
+        "Architectural Innovations in Petabyte-Scale Feature Stores for Real-time AI Inference and Model Retraining",
+        "Beyond AlphaFold: The Distributed Computational Infrastructure for De Novo Protein Design and High-Throughput Biological Simulation"
     ]
 }
