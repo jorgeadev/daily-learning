@@ -245,7 +245,6 @@
         "The Undersea Cable as a Distributed Compute Node: Analyzing Subsea Fiber-Optic Infrastructure for Latency-Optimized Global State Machine Replication",
         "Behind the Bypass: How AWS's SRD and NVIDIA's Spectrum-4 Switch-Level Retransmission Redefine Lossless Ethernet for Hyperscale AI Fabrics",
         "The Role of Custom Network Fabrics and SmartNICs in Accelerating Hyperscale AI Model Training and Inference",
-        "Achieving Global Transactional Consistency with Hybrid Consensus Protocols: A Deep Dive into Geo-Distributed Database Architectures",
         "CRISPR-Guided Phage Engineering: Repurposing Viral Defense Systems for Targeted Antimicrobial Resistance Busting",
         "Beyond Bare Metal: How Programmable Data Planes and SmartNICs Revolutionize Hyperscale AI/ML Network Performance.",
         "Petascale Multi-Omics: Architecting Reproducible and Integrated Analysis Pipelines for Population-Level Biomedical Research.",
@@ -371,6 +370,9 @@
         "AI-Driven Directed Evolution: Engineering Next-Gen AAV Capsids for Precision Gene Therapy and Minimized Immunogenicity",
         "Decoding Meta's Wan: The Hardware-Software Co-Design Powering Their Heterogeneous AI Inference Fleet",
         "Inside the GCP Spanner Shard Thaw: How Google Minimized Commit Latency During a Planet-Wide Metadata Outage",
-        "How Netflix Migrated Its Entire Content Pipeline to a Unified Delta Lake Without a Single Failed Stream"
+        "How Netflix Migrated Its Entire Content Pipeline to a Unified Delta Lake Without a Single Failed Stream",
+        "Cache Coherence and Consistency Models in Geo-Distributed, Ultra-Low Latency Cloud Infrastructure",
+        "Architecting Multi-Tenant, Petabyte-Scale Data Lakes for Real-time AI/ML Training: A Deep Dive into Distributed Query Optimization",
+        "Beyond AlphaFold: Engineering Scalable Generative AI Models for *De Novo* Protein Design and High-Throughput Biological Synthesis"
     ]
 }
