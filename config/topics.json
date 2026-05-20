@@ -281,7 +281,6 @@
         "Beyond Kubernetes: The Next Frontier in Global-Scale Resource Scheduling and Job Migration for Heterogeneous Workloads",
         "Engineering Oncolytic Adenoviruses for Enhanced Tumor Selectivity and Immunogenicity in Next-Gen Cancer Therapies",
         "The Architecture of Hyperscale Vector Databases for Billion-Scale Embeddings and Real-time Semantic Search",
-        "The Programmable Data Plane: How SmartNICs and P4 are Redefining Hyperscale Cloud Networking",
         "Global Data Consistency at Extreme Scale: Engineering Tradeoffs and Innovative Consensus Mechanisms in Geo-Distributed Databases",
         "Beyond Linear mRNA: Engineering Self-Amplifying and Circular RNA for Next-Gen Viral and Therapeutic Applications",
         "The Hidden Complexity of Global Backbone Tuning: Analyzing Netflix's Open Connect CDN Micro-Partitioning for 4K Stutter-Free Streaming",
@@ -375,6 +374,9 @@
         "Beyond AlphaFold: Engineering Scalable Generative AI Models for *De Novo* Protein Design and High-Throughput Biological Synthesis",
         "An analysis of Meta's use of memristive crossbar arrays for analog in-memory matrix operations at the hyperscale AI inference tier.",
         "The mechanical resonance cancellation algorithms deployed in Google's dual-stack liquid immersion cooling pod for 2kW+ per-die TDP.",
-        "How Netflix transitioned its Chaos Monkey from pod-level abstraction to hardware-level fault injection via BMC-based PCIe bus error triggering."
+        "How Netflix transitioned its Chaos Monkey from pod-level abstraction to hardware-level fault injection via BMC-based PCIe bus error triggering.",
+        "Inside Meta's WAN traffic engineering: How OSPFv3 segment routing and weighted ECMP replace MPLS at global scale.",
+        "A deep dive into Google's Jupiter network fabric v2: Optical circuit switching and the end of spine-leaf topologies.",
+        "How Cloudflare built a global key-value store on a billion requests per second using Durable Objects and global ACID transactions."
     ]
 }
