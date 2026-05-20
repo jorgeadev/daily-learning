@@ -284,7 +284,6 @@
         "The Programmable Data Plane: How SmartNICs and P4 are Redefining Hyperscale Cloud Networking",
         "Global Data Consistency at Extreme Scale: Engineering Tradeoffs and Innovative Consensus Mechanisms in Geo-Distributed Databases",
         "Beyond Linear mRNA: Engineering Self-Amplifying and Circular RNA for Next-Gen Viral and Therapeutic Applications",
-        "Dismantling the Billion-Node Graph: How Meta Re-architected Tao for Sub-Millisecond Social Queries on a Single Cluster",
         "The Hidden Complexity of Global Backbone Tuning: Analyzing Netflix's Open Connect CDN Micro-Partitioning for 4K Stutter-Free Streaming",
         "How Google Used CXL Memory Tiering to Throttle Hotspots in Borg: A Deep Dive into Heterogeneous Resource Scheduling at Planetary Scale",
         "The unseen architecture: How specialized accelerators and distributed inference engines drive generative AI models at global scale.",
@@ -373,6 +372,9 @@
         "How Netflix Migrated Its Entire Content Pipeline to a Unified Delta Lake Without a Single Failed Stream",
         "Cache Coherence and Consistency Models in Geo-Distributed, Ultra-Low Latency Cloud Infrastructure",
         "Architecting Multi-Tenant, Petabyte-Scale Data Lakes for Real-time AI/ML Training: A Deep Dive into Distributed Query Optimization",
-        "Beyond AlphaFold: Engineering Scalable Generative AI Models for *De Novo* Protein Design and High-Throughput Biological Synthesis"
+        "Beyond AlphaFold: Engineering Scalable Generative AI Models for *De Novo* Protein Design and High-Throughput Biological Synthesis",
+        "An analysis of Meta's use of memristive crossbar arrays for analog in-memory matrix operations at the hyperscale AI inference tier.",
+        "The mechanical resonance cancellation algorithms deployed in Google's dual-stack liquid immersion cooling pod for 2kW+ per-die TDP.",
+        "How Netflix transitioned its Chaos Monkey from pod-level abstraction to hardware-level fault injection via BMC-based PCIe bus error triggering."
     ]
 }
