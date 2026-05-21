@@ -69,7 +69,6 @@
         "Global Messaging at Scale: Real-time Consistency Across Distributed Graph Databases for Billions",
         "Architecting Post-Quantum Cryptography Migrations for Hyperscale Cloud Infrastructure",
         "Computational Genomics for Viral Vector Engineering: Predictive Design of Next-Gen Therapeutic Delivery Systems",
-        "The Architectural Evolution of Hyperscale Data Center Networking from Clos to Advanced SDN Topologies",
         "Deep Dive into Amazon DynamoDB's Consistent Hashing and Replication Model for Exabyte-Scale Durability",
         "Designing and Deploying Global Load Balancing for Billions of Requests: From DNS-Based to Anycast Architectures",
         "The Engineering Challenges of Maintaining Strong Global Consistency in Hyperscale Distributed Transactional Databases",
@@ -377,6 +376,9 @@
         "How Netflix transitioned its Chaos Monkey from pod-level abstraction to hardware-level fault injection via BMC-based PCIe bus error triggering.",
         "Inside Meta's WAN traffic engineering: How OSPFv3 segment routing and weighted ECMP replace MPLS at global scale.",
         "A deep dive into Google's Jupiter network fabric v2: Optical circuit switching and the end of spine-leaf topologies.",
-        "How Cloudflare built a global key-value store on a billion requests per second using Durable Objects and global ACID transactions."
+        "How Cloudflare built a global key-value store on a billion requests per second using Durable Objects and global ACID transactions.",
+        "Optimizing P99 Latency at Scale: Tail Latency Reduction Techniques in Distributed Databases for Hyperscale Workloads",
+        "Beyond Consensus: Unpacking the Architectural Implications of Conflict-Free Replicated Data Types (CRDTs) in Globally Distributed Systems",
+        "CRISPR-Cas Systems Beyond Gene Editing: Programmable RNA Targeting for Advanced Antiviral Therapies and Diagnostics"
     ]
 }
