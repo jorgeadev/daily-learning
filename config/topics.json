@@ -296,7 +296,6 @@
         "Engineering Enhanced Specificity and Reduced Immunogenicity in AAV Capsids for Advanced Gene Therapies",
         "The thermal tax: A post-mortem of Meta's liquid immersion cooling overhaul for 100kW+ GPU clusters in the wake of the Llama 4 training run.",
         "How Google's 'Physical Shard' abstraction conceals a cross-continent, sub-millisecond replicated storage layer for Spanner's latest hardware revision.",
-        "Disaggregated Compute and Memory Architectures: The Next Frontier for Hyperscale Data Centers.",
         "Engineering High-Cardinality Observability Platforms for Trillion-Event Microservices Ecosystems.",
         "AI-Accelerated De Novo Design of Enhanced AAV Capsids for Precision Gene Therapy.",
         "The Engineering Behind Ultra-High Bandwidth, Low-Latency Interconnects for Distributed AI Training: From Custom ASICs to Next-Gen Network Topologies",
@@ -383,6 +382,9 @@
         "Computational Virology at the Edge: Engineering mRNA Vaccine Production and Distribution for Pandemic Readiness",
         "Unpacking Meta's 'Project Titan': The 3D-Stacked Compute Fabrics Powering Next-Gen Inference at Exascale",
         "Dissecting the Global Control Plane: How Cloudflare's Durable Objects Manage Distributed State Across 330+ Cities in Under 50ms",
-        "The Physics of Video Egress: How Netflix Bypassed the Linux Kernel to Achieve 1.5 Tbps per Node with io_uring and XDP"
+        "The Physics of Video Egress: How Netflix Bypassed the Linux Kernel to Achieve 1.5 Tbps per Node with io_uring and XDP",
+        "Architecting Disaggregated Memory and Compute for Petascale AI Training Clusters",
+        "The Design Challenges of Achieving Global Linearizability in Multi-Region Distributed Databases",
+        "Leveraging Large Language Models and Diffusion Models for De Novo Protein Design and Engineering at Scale"
     ]
 }
