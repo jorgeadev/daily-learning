@@ -269,7 +269,6 @@
         "The architectural implications of adopting memory-semantic network fabrics (e.g., CXL) for ultra-low-latency AI model serving at scale.",
         "Deep learning-guided de novo design of synthetic viral vectors for ultra-specific in vivo cell targeting and gene therapy delivery.",
         "Designing exabyte-scale, multi-modal vector embeddings for real-time retrieval-augmented generation (RAG) in conversational AI.",
-        "Architecting Global Transactional Consistency: A Deep Dive into Hyperscale Distributed Database Consensus Mechanisms",
         "The Rise of Programmable Networks: How DPUs are Reshaping Hyperscale Cloud Infrastructure for Next-Gen Workloads",
         "Architecting Exabyte-Scale Real-time Stream Processing for Global User Engagement Platforms",
         "The Deep Technical Challenges of Deploying Custom AI Accelerators Across Hyperscale Edge Networks",
@@ -381,6 +380,9 @@
         "CRISPR-Cas Systems Beyond Gene Editing: Programmable RNA Targeting for Advanced Antiviral Therapies and Diagnostics",
         "The Architectural Evolution of Hyperscale Data Center Network Fabrics: From Clos to Programmable Packet Processors",
         "Eliminating Tail Latency at Petabyte Scale: Advanced Techniques in Distributed Transactional System Optimization",
-        "Computational Virology at the Edge: Engineering mRNA Vaccine Production and Distribution for Pandemic Readiness"
+        "Computational Virology at the Edge: Engineering mRNA Vaccine Production and Distribution for Pandemic Readiness",
+        "Unpacking Meta's 'Project Titan': The 3D-Stacked Compute Fabrics Powering Next-Gen Inference at Exascale",
+        "Dissecting the Global Control Plane: How Cloudflare's Durable Objects Manage Distributed State Across 330+ Cities in Under 50ms",
+        "The Physics of Video Egress: How Netflix Bypassed the Linux Kernel to Achieve 1.5 Tbps per Node with io_uring and XDP"
     ]
 }
