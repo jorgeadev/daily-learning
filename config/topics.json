@@ -368,7 +368,6 @@
         "Decoding Meta's Wan: The Hardware-Software Co-Design Powering Their Heterogeneous AI Inference Fleet",
         "Inside the GCP Spanner Shard Thaw: How Google Minimized Commit Latency During a Planet-Wide Metadata Outage",
         "How Netflix Migrated Its Entire Content Pipeline to a Unified Delta Lake Without a Single Failed Stream",
-        "Cache Coherence and Consistency Models in Geo-Distributed, Ultra-Low Latency Cloud Infrastructure",
         "Architecting Multi-Tenant, Petabyte-Scale Data Lakes for Real-time AI/ML Training: A Deep Dive into Distributed Query Optimization",
         "Beyond AlphaFold: Engineering Scalable Generative AI Models for *De Novo* Protein Design and High-Throughput Biological Synthesis",
         "An analysis of Meta's use of memristive crossbar arrays for analog in-memory matrix operations at the hyperscale AI inference tier.",
@@ -379,6 +378,9 @@
         "How Cloudflare built a global key-value store on a billion requests per second using Durable Objects and global ACID transactions.",
         "Optimizing P99 Latency at Scale: Tail Latency Reduction Techniques in Distributed Databases for Hyperscale Workloads",
         "Beyond Consensus: Unpacking the Architectural Implications of Conflict-Free Replicated Data Types (CRDTs) in Globally Distributed Systems",
-        "CRISPR-Cas Systems Beyond Gene Editing: Programmable RNA Targeting for Advanced Antiviral Therapies and Diagnostics"
+        "CRISPR-Cas Systems Beyond Gene Editing: Programmable RNA Targeting for Advanced Antiviral Therapies and Diagnostics",
+        "The Architectural Evolution of Hyperscale Data Center Network Fabrics: From Clos to Programmable Packet Processors",
+        "Eliminating Tail Latency at Petabyte Scale: Advanced Techniques in Distributed Transactional System Optimization",
+        "Computational Virology at the Edge: Engineering mRNA Vaccine Production and Distribution for Pandemic Readiness"
     ]
 }
