@@ -125,7 +125,6 @@
         "The Architectural Evolution of Hyperscale Data Center Network Fabrics for Terabit-Scale Interconnects and Congestion Management",
         "Achieving Global Strong Consistency with Shard-Splitting and Multi-Paxos Variants in Planet-Scale Distributed Database Systems",
         "CRISPR-Guided Phage Engineering: Precision Delivery and Genetically Modified Viral Vectors for In Vivo Therapeutic Applications",
-        "Deep dive into Firecracker microVMs and snapshotting techniques for mitigating serverless cold starts at hyperscale.",
         "Decoding the Interconnects: Memory Bandwidth Bottlenecks and Custom Fabric Solutions for Trillion-Parameter LLM Inference",
         "From PUE to PUD: Advancements in Disaggregated Computing and Direct Liquid Cooling for Hyperscale Infrastructure",
         "The Phage-Storage Paradigm: Engineering Bacteriophage Virions for Petabyte-Scale Biological Data Storage and Retrieval Systems",
@@ -385,6 +384,9 @@
         "The Physics of Video Egress: How Netflix Bypassed the Linux Kernel to Achieve 1.5 Tbps per Node with io_uring and XDP",
         "Architecting Disaggregated Memory and Compute for Petascale AI Training Clusters",
         "The Design Challenges of Achieving Global Linearizability in Multi-Region Distributed Databases",
-        "Leveraging Large Language Models and Diffusion Models for De Novo Protein Design and Engineering at Scale"
+        "Leveraging Large Language Models and Diffusion Models for De Novo Protein Design and Engineering at Scale",
+        "Architecting Zero-Copy, Kernel-Bypassing I/O Stacks with DPUs and RDMA for Sub-Millisecond AI Inference at Hyperscale",
+        "Implementing Globally Consistent Distributed Transactions at Petabyte Scale: Challenges and Solutions with Hybrid Logical Clocks and Atomic Commit Protocols",
+        "Computational Architectures for AI-Driven De Novo Protein Design and Synthetic Virology: Scaling Challenges in Generating Novel Biological Entities"
     ]
 }
